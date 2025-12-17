@@ -21,7 +21,7 @@ jobs:
         run: |
           ln -s datasets data
           mv data/image/forest-sat/01crop/*jpg data/image/forest-sat/
-          rm -rf data/image/forest-sat/0*
+          rm -rf data/image/forest-sat/00orig data/image/forest-sat/01crop
           tar -czf forest-sat.tar.gz data/image/forest-sat
 
       - name: Tag Release
