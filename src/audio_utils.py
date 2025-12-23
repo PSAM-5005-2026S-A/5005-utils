@@ -64,3 +64,18 @@ def stft(samples, rate=44100, window_len=1024):
 
 def ifft(fs):
   return np.fft.fftshift(np.fft.irfft(fs)).tolist()
+
+# Generate Audio
+
+def tone(freq, length_seconds, amp=2**10, sr=44100, fade=False):
+  length_samples = length_seconds * sr
+  t = range(0, length_samples)
+  ham = np.ones(length_samples)
+  if fade:
+    ham = np.hamming(length_samples)
+  two_pi = 2.0 * np.pi
+  return np.array([amp * np.sin(two_pi * freq * x / sr) for x in t] * ham).astype(np.int16).tolist(), sr
+
+def multi_tone(freqs, length_seconds, amp=2**10, sr=44100, fade=False):
+  tones = np.array([tone(f, length_seconds, amp, sr, fade)[0] for f in freqs])
+  return tones.mean(axis=0), sr
