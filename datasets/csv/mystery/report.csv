@@ -1,0 +1,1365 @@
+date,type,description,borough
+20241108,murder,Fatal stabbing during a street confrontation; three witnesses fled the scene,Manhattan
+20250219,fraud,Sophisticated phishing attack targeting local businesses,Manhattan
+20230614,theft,Bicycle stolen from a high school rack; no witnesses were present at the time,Brooklyn
+20240105,assault,Physical altercation in a parking lot; several bystanders intervened,Staten Island
+20251225,arson,Structure fire at a vacant warehouse; suspicious accelerants found,Bronx
+20230912,bribery,Contractor offered cash to bypass building safety codes; witnessed by a junior clerk,Manhattan
+20240430,robbery,Armed robbery at a pharmacy; pharmacist provided a detailed description,Brooklyn
+20250722,theft,Shoplifting of high-end apparel; security footage under review,Staten Island
+20230311,murder,Investigation into a shooting at a private residence; a neighbor reported hearing shots,Queens
+20241005,fraud,Insurance claim filed using falsified medical reports,Manhattan
+20250519,assault,Bar fight resulting in minor injuries; the bartender witnessed the start,Bronx
+20230827,arson,Intentional fire set to a dumpster behind a grocery store,Manhattan
+20241212,theft,Valuables taken from an unlocked vehicle overnight; no witnesses came forward,Brooklyn
+20250130,robbery,Mugging in a public park; witness called 911 immediately,Manhattan
+20231103,bribery,Bribe offered to a licensing clerk for expedited processing,Staten Island
+20240715,murder,Drive-by shooting incident; multiple witnesses identified the car,Staten Island
+20250901,fraud,Counterfeit currency passed at a local market,Brooklyn
+20230418,assault,Unprovoked attack on a subway platform; captured on CCTV with several witnesses,Queens
+20240226,arson,Brush fire started with a flare; hiker reported seeing a suspect,Brooklyn
+20251110,theft,Laptop stolen from a public library,Bronx
+20231022,robbery,Bank heist involving a note-passer; several customers were present,Brooklyn
+20240505,fraud,Unauthorized use of a stolen credit card at multiple locations,Staten Island
+20250814,murder,Body discovered in a city park; forensic investigation ongoing with no witnesses,Manhattan
+20230129,assault,Dispute between coworkers escalated to physical violence,Staten Island
+20240930,theft,Jewelry taken during a home burglary; neighbor heard glass breaking,Brooklyn
+20250412,bribery,Cash exchange observed between a developer and a public official,Queens
+20230707,arson,Empty house set on fire; fire marshal confirmed arson; no witnesses reported,Brooklyn
+20241121,robbery,Cell phone stolen at knifepoint; victim unharmed,Bronx
+20250305,fraud,Tax evasion scheme involving offshore accounts; whistleblower provided evidence,Manhattan
+20230528,assault,Aggravated assault involving a blunt object,Brooklyn
+20240808,theft,Backpack stolen from a gym locker; a staff member saw a suspicious individual,Staten Island
+20250617,murder,Homicide investigation following a gang-related shooting,Queens
+20231215,arson,Car fire set in a residential driveway; neighbor caught the act on a doorbell cam,Staten Island
+20240623,bribery,Bribe offered to a juror during a high-profile trial,Manhattan
+20251010,theft,Lawn equipment stolen from a shed; witness saw a white van leaving,Brooklyn
+20230214,robbery,Gas station robbery at gunpoint; clerk was the sole witness,Brooklyn
+20240329,fraud,Online auction scam involving non-existent goods,Manhattan
+20251201,assault,Brawl outside a concert venue; multiple arrests made and dozens of witnesses,Bronx
+20231119,theft,Purse snatched from a shopping cart; witness provided a sketch,Manhattan
+20240120,arson,Small fire started in a public restroom,Staten Island
+20250115,murder,Victim found with multiple gunshot wounds; no immediate witnesses found,Staten Island
+20230404,bribery,Political donation made in exchange for zoning changes,Manhattan
+20240909,fraud,Investment fraud promising high returns; several victims acted as witnesses,Queens
+20250702,theft,Package theft from a front porch recorded on doorbell cam,Brooklyn
+20230811,robbery,Convenience store holdup; witness hid in the back room,Brooklyn
+20241230,assault,Domestic violence incident reported by a neighbor,Brooklyn
+20250522,arson,Fire set to a local business during a riot; multiple witnesses on site,Bronx
+20230605,theft,Copper wiring stolen from a construction site,Manhattan
+20241014,fraud,Social security number used to open accounts; bank teller acted as witness,Staten Island
+20250228,murder,Fatal stabbing in a parking garage; weapon recovered at the scene,Manhattan
+20230325,bribery,Bribe paid to an environmental inspector; caught during an undercover sting,Staten Island
+20240701,theft,Tools stolen from a work truck; witness saw two individuals,Queens
+20251119,robbery,Jewelry store smash-and-grab; several shoppers witnessed it,Brooklyn
+20231008,assault,Customer assaulted a staff member over a refund dispute,Brooklyn
+20240520,arson,Suspicious fire in an apartment building basement; resident saw a suspect,Brooklyn
+20250915,fraud,Identity theft via a data breach at a local hospital,Bronx
+20230112,theft,Wallet stolen from a coat pocket in a crowded bar; witness pointed out suspect,Brooklyn
+20240404,murder,Shooting death outside a nightclub; witnesses are cooperating,Staten Island
+20251210,robbery,Pedestrian robbed of their watch at gunpoint; no witnesses in the alley,Manhattan
+20230928,bribery,Bribe offered to a police officer during a search,Staten Island
+20241130,theft,Larceny of electronics from a residence; neighbor saw a delivery truck,Queens
+20250606,assault,Altercation at a transit station; security footage available,Brooklyn
+20230719,arson,Old barn set on fire; teenagers seen in the area by a farmer,Brooklyn
+20240211,fraud,Check kiting scheme involving multiple bank accounts,Manhattan
+20250825,theft,Catalytic converter stolen from a car; witness heard a loud grinding noise,Bronx
+20231205,robbery,Bank robbery by a lone suspect; no weapons shown,Manhattan
+20240817,murder,Unsolved homicide involving a victim in a vehicle; a passerby found the car,Staten Island
+20250320,bribery,Subcontractor paid for favorable contract terms,Manhattan
+20230501,assault,Fight in a high school hallway; multiple student witnesses,Staten Island
+20240128,theft,Phone stolen from a table while the owner was distracted,Queens
+20251030,arson,Intentional fire in a dumpster near a school; witness saw a hooded figure,Brooklyn
+20230622,fraud,Phishing scam targeting university students,Brooklyn
+20241205,robbery,Victim robbed of shopping bags; mall security acted as witness,Manhattan
+20250425,theft,Mountain bike stolen from a garage; witness saw a red truck,Bronx
+20230302,murder,Assassination-style shooting in a driveway; witness saw a getaway car,Brooklyn
+20240914,bribery,Kickback given to a purchasing agent for a tech firm,Staten Island
+20250122,assault,Road rage incident leading to a physical fight; other drivers witnessed it,Brooklyn
+20231111,arson,Curtains set on fire in an occupied apartment,Staten Island
+20240530,fraud,Mortgage fraud involving forged signatures; notary acted as witness,Queens
+20250205,theft,Construction equipment taken from a secure site,Brooklyn
+20230819,robbery,Pharmacy robbed of prescription medications; three customers gave statements,Brooklyn
+20241022,murder,Homicide resulting from a botched drug deal,Manhattan
+20250711,bribery,Bribe offered to a health inspector; witness recorded the audio,Bronx
+20230227,assault,Violent struggle during a shoplifting attempt,Brooklyn
+20240315,theft,Art piece stolen from a gallery; attendee saw someone carrying a frame,Staten Island
+20251125,arson,Vehicle fire spread to a nearby fence; arson suspected,Manhattan
+20230905,fraud,Skimming device found on an ATM; no known witnesses,Staten Island
+20241102,robbery,Delivery driver robbed of cash and food,Queens
+20250628,theft,Package stolen from a mailroom; captured on video with one witness,Brooklyn
+20230714,murder,Shooting at a public park; three witnesses identified,Brooklyn
+20240118,bribery,Cash bribe offered to a DMV employee; coworker reported the incident,Brooklyn
+20250930,assault,Physical fight between fans at a baseball game,Bronx
+20231220,theft,Power tools stolen from a hardware store; manager saw the suspect flee,Manhattan
+20240410,arson,Lumber yard fire determined to be intentional,Staten Island
+20250505,fraud,Elderly person scammed; bank manager acted as a witness,Manhattan
+20231015,robbery,Carjacking at a red light; witness gave a partial plate,Staten Island
+20240822,murder,Victim discovered in an abandoned building,Queens
+20250101,bribery,Bribe paid to influence a contract; witness provided internal emails,Brooklyn
+20230330,theft,Purse stolen from the back of a chair,Brooklyn
+20241220,assault,Security guard assaulted by a trespasser; multiple staff witnesses,Manhattan
+20250415,arson,Garage fire set with gasoline; neighbor saw a suspect,Bronx
+20230509,fraud,Online romance scam resulting in financial loss,Manhattan
+20241111,theft,Laptop taken from a student; witness saw a man in a blue hoodie,Staten Island
+20250810,robbery,Store clerk robbed at gunpoint during closing shift,Brooklyn
+20230628,murder,Gang-related homicide in a housing project; residents heard shots,Staten Island
+20240101,bribery,Business owner offered cash for a liquor license,Queens
+20250214,theft,Cash register emptied; no witnesses present in the shop,Brooklyn
+20230919,assault,Person hit with a glass bottle during a bar brawl,Brooklyn
+20241030,arson,Vacant retail space gutted by fire; witness saw someone entering earlier,Brooklyn
+20250325,fraud,Ponzi scheme defrauding dozens of local investors,Bronx
+20231201,theft,Unlocked bicycle stolen from a front porch; neighbor saw a teenager,Brooklyn
+20240512,robbery,Pedestrian mugged for their cell phone and wallet,Staten Island
+20250120,murder,Domestic homicide; suspect turned themselves in to witnesses,Manhattan
+20230815,bribery,Bribe paid to avoid a building code violation,Staten Island
+20241125,theft,Retail theft of perfume; security alerted by a shopping witness,Queens
+20250601,assault,Threats made with a weapon during a dispute,Brooklyn
+20230211,arson,Trash fire set near a gas line; potentially explosive; no witnesses,Brooklyn
+20240419,fraud,Unemployment benefits claimed using a stolen identity,Manhattan
+20250910,theft,Wallet taken from an gym locker; witness saw a suspect using bolt cutters,Bronx
+20231030,robbery,Armed robbery of a pizza delivery person,Manhattan
+20240705,murder,Drive-by shooting; several shell casings recovered; witness saw a dark SUV,Staten Island
+20251105,bribery,Offer made to an election official to alter votes,Manhattan
+20230122,theft,Construction materials stolen from a site; witness reported a white truck,Staten Island
+20240215,assault,Altercation between two drivers following a collision,Queens
+20251215,arson,Intentional fire set to a playground; group of teens seen nearby,Brooklyn
+20230514,fraud,Credit card fraud involving unauthorized online orders,Brooklyn
+20240925,theft,Shoplifting incident; security guard acted as the primary witness,Manhattan
+20250819,robbery,Masked individual robbed a convenience store,Bronx
+20231128,murder,Stabbing death in a subway station; witness on platform gave a statement,Brooklyn
+20240612,bribery,Contractor offered a bribe for an inspection pass,Staten Island
+20251015,theft,Bicycle stolen from a second-story balcony; neighbor witnessed the climb,Manhattan
+20230305,assault,Victim struck by a stranger in a random attack,Staten Island
+20241201,arson,House fire determined to be arson; no witnesses reported in the area,Queens
+20250422,fraud,Tax refund fraud using a deceased person's info,Brooklyn
+20230910,theft,Backpack taken from a park bench; witness saw someone walking away,Brooklyn
+20241108,robbery,Street robbery involving a firearm; witness fled the scene,Manhattan
+20250131,murder,Investigation into a fatal shooting at a strip mall,Bronx
+20230722,bribery,Attempted payoff to a police officer; dashcam acted as the witness,Manhattan
+20240115,theft,Tools stolen from a garage; homeowner saw a shadow,Staten Island
+20250510,assault,Security guard punched by an unruly patron; multiple patrons witnessed it,Brooklyn
+20231225,arson,Structure fire at a storage facility; arson suspected,Staten Island
+20240405,fraud,Phishing email targeting corporate employees; IT department acted as witness,Queens
+20250919,theft,Package stolen from a porch; caught on camera,Brooklyn
+20231002,robbery,Jewelry snatched from a woman's neck; witness chased the suspect,Brooklyn
+20240828,murder,Body found in a wooded area; homicide suspected,Manhattan
+20250220,bribery,Bribe offered to a city official; secretary witnessed the meeting,Bronx
+20230612,theft,Bicycle stolen from a bike rack; lock was cut,Brooklyn
+20240322,assault,Pushing and shoving match at a rally; dozens of witnesses filmed it,Staten Island
+20251130,arson,Intentional fire set to a vehicle in a park,Manhattan
+20230219,fraud,Bank account drained; bank teller acted as a witness to the withdrawal,Staten Island
+20241010,theft,Purse taken from a grocery store cart,Queens
+20250615,robbery,Pharmacy robbed of narcotics; witness identified a tattoo on the suspect,Brooklyn
+20230518,murder,Fatal shooting during an attempted robbery,Brooklyn
+20241222,bribery,Bribe paid to bypass a safety inspection; coworker came forward as witness,Manhattan
+20250401,theft,Shoplifting of electronics; suspect fled on foot,Bronx
+20230925,assault,Person threatened with a knife in an alleyway; witness yelled for help,Manhattan
+20240714,arson,Small fire set in a vacant lot,Staten Island
+20251025,fraud,Identity theft used to open store accounts; sales clerk was a witness,Manhattan
+20230115,theft,Wheels stolen from a car parked at the airport,Staten Island
+20240129,robbery,Convenience store robbery; clerk was injured and is the main witness,Queens
+20250805,murder,Homicide investigation at a local apartment complex,Brooklyn
+20230810,bribery,Bribe offered to a building inspector; second inspector was present,Brooklyn
+20241115,theft,Laptop taken from a library table,Manhattan
+20250528,assault,Customer assaulted a fast-food worker; several patrons witnessed the hit,Bronx
+20230319,arson,House fire set by an estranged spouse,Manhattan
+20240210,fraud,Fraudulent charges on a credit card; witness saw the card used at a kiosk,Staten Island
+20251220,theft,Bicycle stolen from a backyard,Manhattan
+20231105,robbery,Victim robbed of their purse; witness provided a description of the car,Staten Island
+20240618,murder,Victim found dead in a hotel room; investigation ongoing,Queens
+20250925,bribery,Bribe paid to an official; witness provided a photo of the envelope,Brooklyn
+20230701,theft,Shoplifting of alcohol from a liquor store,Brooklyn
+20240428,assault,Bar fight involving multiple patrons; security acted as witnesses,Manhattan
+20250105,arson,Fire set to a vacant storefront,Bronx
+20231025,fraud,Counterfeit checks used to purchase goods; witness saw the suspect flee,Manhattan
+20240910,theft,Backpack stolen from a bus station,Staten Island
+20251111,robbery,Bank robbery involving two masked suspects; many customers witnessed it,Brooklyn
+20230505,murder,Fatal shooting in a residential neighborhood,Staten Island
+20241215,bribery,Bribe offered to a code officer; witness saw the cash change hands,Queens
+20250310,theft,Tools stolen from a construction site,Brooklyn
+20230830,assault,Person struck with a weapon during a dispute; neighbor saw the attack,Brooklyn
+20240122,arson,Car fire set in a public parking lot,Brooklyn
+20250715,fraud,Investment scam targeting the elderly; family member acted as witness,Bronx
+20230215,theft,Laptop taken from an office building,Manhattan
+20241019,robbery,Mugging at a transit stop; witness saw the suspect,Staten Island
+20250625,murder,Body found in a dumpster; homicide suspected; no witnesses reported,Manhattan
+20230915,bribery,Bribe paid to a government official for a contract,Staten Island
+20240310,theft,Bicycle stolen from a porch; delivery driver witnessed the theft,Queens
+20251230,assault,Altercation at a sporting event,Brooklyn
+20231115,arson,Small fire set in a park; no witnesses were present,Brooklyn
+20240722,fraud,Email scam asking for personal information,Manhattan
+20250210,theft,Shoplifting of cosmetics; witness saw suspect hide items in a bag,Bronx
+20230412,robbery,Armed robbery of a pedestrian,Manhattan
+20240805,murder,Shooting death in a parking lot; witness identified a silver sedan,Staten Island
+20250119,bribery,Bribe offered to a city official,Manhattan
+20230625,theft,Package stolen from a front door; neighbor witnessed the theft,Staten Island
+20241111,assault,Physical fight between two neighbors,Queens
+20251020,arson,Intentional fire set to a fence; witness saw a suspect with a lighter,Brooklyn
+20231228,fraud,Credit card skimming at a gas pump,Brooklyn
+20240515,theft,Bicycle stolen from a rack; witness saw the lock being cut,Brooklyn
+20250915,robbery,Mugging in a public park,Bronx
+20230730,murder,Homicide investigation following a shooting; three witnesses found,Manhattan
+20240228,bribery,Bribe paid to influence a legal case,Staten Island
+20250422,theft,Laptop taken from a cafe; witness provided a suspect description,Manhattan
+20230514,theft,Shoplifting of high-end electronics; a security guard acted as the primary witness,Bronx
+20251102,fraud,Identity theft involving unauthorized bank transfers,Manhattan
+20240819,robbery,Armed robbery at a convenience store; a customer in the back provided a description,Staten Island
+20231225,arson,Intentional fire set in an abandoned warehouse,Staten Island
+20260110,bribery,Attempted payoff to a city official; the encounter was witnessed by a staffer,Brooklyn
+20240312,assault,Physical altercation outside a nightclub,Queens
+20250630,murder,Homicide involving a firearm; several residents reported hearing the shots,Manhattan
+20230908,theft,Bicycle stolen from a public park,Brooklyn
+20241021,fraud,Email phishing scam targeting local seniors; one victim came forward as a witness,Brooklyn
+20250214,assault,Dispute between neighbors resulting in minor injuries,Bronx
+20230115,bribery,Contractor offered cash for a zoning variance; witnessed by a city clerk,Manhattan
+20240411,robbery,Street mugging at knifepoint,Brooklyn
+20251212,theft,Package taken from a porch; a neighbor caught the suspect on a doorbell camera,Brooklyn
+20230805,arson,Vehicle set on fire in a residential alley,Staten Island
+20260125,murder,Fatal shooting in a parking lot; three witnesses provided statements,Manhattan
+20240714,fraud,Credit card skimming discovered at a local boutique,Staten Island
+20230330,assault,Unprovoked attack on a transit platform; several commuters witnessed the event,Queens
+20251005,theft,Lawn equipment stolen from a garden shed,Brooklyn
+20241118,bribery,Cash bribe offered to a health inspector; witness recorded the conversation,Bronx
+20231201,robbery,Bank robbery involving a masked suspect,Brooklyn
+20250109,arson,Small fire started in a dumpster behind a school; a janitor saw a suspect fleeing,Brooklyn
+20240623,murder,Homicide investigation following a domestic dispute,Staten Island
+20230419,theft,Wallet snatched from a table at an outdoor cafe; a waiter saw the suspect,Brooklyn
+20250830,fraud,Insurance fraud involving a staged car accident,Brooklyn
+20241205,assault,Bar fight leading to hospitalizations; dozens of patrons were present,Staten Island
+20230711,robbery,Pharmacy robbed of prescription meds,Queens
+20250314,bribery,Attempted bribe of a police officer; dashcam footage served as a witness,Brooklyn
+20240228,theft,Tools stolen from a construction site,Bronx
+20231015,arson,Structure fire at a vacant retail store; witness reported a white van,Manhattan
+20250920,fraud,Phishing attack on a local government office,Brooklyn
+20240505,murder,Drive-by shooting incident; several witnesses identified a dark SUV,Manhattan
+20230214,theft,Phone stolen from a gym locker,Staten Island
+20251125,assault,Physical struggle during a shoplifting attempt; a store manager intervened,Manhattan
+20240801,robbery,Pedestrian robbed of their watch at gunpoint,Staten Island
+20230630,bribery,Payoff made to a building inspector; a whistleblower provided details,Queens
+20251210,arson,Fire set to a construction crane,Brooklyn
+20240112,theft,Unlocked bicycle stolen from a garage; a neighbor saw the suspect,Bronx
+20230925,murder,Fatal stabbing in a public park,Manhattan
+20250418,fraud,Counterfeit bills passed at a grocery store; a cashier acted as a witness,Brooklyn
+20241030,assault,Security guard assaulted by a trespasser,Brooklyn
+20231111,robbery,Store clerk robbed during the night shift; witness provided a vehicle description,Staten Island
+20250702,theft,Jewelry stolen from a residence,Manhattan
+20240322,arson,Intentional fire in a public park; a jogger reported a hooded figure,Staten Island
+20230528,bribery,Bribe offered to a licensing official,Queens
+20250228,murder,Shooting death outside a nightclub; several witnesses are cooperating,Brooklyn
+20240909,fraud,Investment scam promising high returns,Bronx
+20230819,theft,Laptop stolen from a library; a student saw the suspect leaving,Manhattan
+20251215,assault,Domestic violence incident reported by a neighbor,Brooklyn
+20240405,robbery,Carjacking at a gas station; a witness recorded the license plate,Manhattan
+20230129,arson,House fire determined to be arson,Staten Island
+20250617,bribery,Bribe paid to an environmental officer; witnessed by a technician,Manhattan
+20241102,murder,Homicide resulting from a botched drug deal,Staten Island
+20231008,theft,Bicycle stolen from a balcony; a neighbor witnessed the climb,Queens
+20250131,fraud,Tax evasion involving offshore accounts,Brooklyn
+20240512,assault,Physical fight between two motorists; several drivers stopped to help,Bronx
+20230714,robbery,Convenience store holdup,Manhattan
+20250325,arson,Brush fire started with an accelerant; witness saw a suspect in the area,Brooklyn
+20241220,murder,Body discovered in an abandoned building,Manhattan
+20230227,theft,Shoplifting of luxury goods; a salesperson provided a statement,Staten Island
+20250810,bribery,Bribe offered to influence a city contract,Brooklyn
+20240606,assault,Altercation at a transit station; captured on CCTV with several witnesses,Staten Island
+20230305,robbery,Pedestrian robbed of a backpack,Queens
+20251015,arson,Garbage fire set behind a shopping center; witness saw a suspect,Brooklyn
+20240128,fraud,Check kiting scheme uncovered at a bank,Bronx
+20231115,murder,Fatal shooting in a residential area; a neighbor heard the altercation,Manhattan
+20250522,theft,Power tools taken from a work truck,Brooklyn
+20240701,assault,Violent struggle during a robbery; a passerby intervened,Manhattan
+20230919,robbery,Bank robbery by a lone individual,Staten Island
+20251119,bribery,Kickback paid to a purchasing agent; witnessed by an accountant,Brooklyn
+20240215,arson,Fire set to a vacant home,Staten Island
+20230628,theft,Package stolen from a mailroom; a delivery driver witnessed the act,Queens
+20250814,murder,Homicide investigation at a motel,Brooklyn
+20241022,fraud,Social security fraud using stolen identities; witness saw the mail being taken,Bronx
+20230501,assault,Fight in a parking lot,Brooklyn
+20250412,robbery,Armed robbery of a jewelry store; several customers were present,Brooklyn
+20241215,arson,Trash can fire spread to a building,Manhattan
+20230811,bribery,Bribe offered to a DMV clerk; a supervisor witnessed the attempt,Staten Island
+20250205,theft,Purse stolen from a shopping cart,Brooklyn
+20240419,murder,Shooting at a party; multiple witnesses identified the shooter,Staten Island
+20230122,fraud,Online auction scam involving non-existent goods,Queens
+20251111,assault,Threats made with a weapon during a dispute; neighbor called 911,Brooklyn
+20240705,robbery,Delivery driver robbed of cash,Bronx
+20231030,arson,Intentional fire in a parking garage; witness saw a suspect with a gas can,Manhattan
+20250105,bribery,Bribe paid to bypass building codes,Brooklyn
+20240914,theft,Copper wiring stolen from a site; a security guard saw the suspect,Brooklyn
+20230412,murder,Homicide investigation following a gang-related shooting,Staten Island
+20250528,fraud,Investment fraud targeting local businesses; a whistleblower came forward,Manhattan
+20240118,assault,Pushing and shoving match at a rally,Staten Island
+20231220,robbery,Armed robbery of a pedestrian; witness provided a height description,Queens
+20250711,arson,Vehicle fire spread to a nearby fence,Brooklyn
+20240329,bribery,Bribe offered to a juror; witnessed by a bailiff,Bronx
+20230518,theft,Wallet stolen from a coat pocket,Brooklyn
+20250930,murder,Fatal stabbing in a subway station; many commuters witnessed the attack,Brooklyn
+20241111,fraud,Credit card fraud involving unauthorized orders,Manhattan
+20230719,assault,Person hit with a glass bottle; a bartender saw the incident,Staten Island
+20250220,robbery,Convenience store robbery at gunpoint,Brooklyn
+20240822,arson,Fire set to a local business; witness saw a suspect fleeing on a bike,Staten Island
+20230302,bribery,Bribe paid for a liquor license,Queens
+20251030,theft,Laptop taken from a university cafe; a student witness provided a sketch,Brooklyn
+20241222,murder,Shooting death in a parking lot,Bronx
+20230910,fraud,Mortgage fraud involving forged signatures; a notary acted as a witness,Manhattan
+20250425,assault,Road rage incident leading to a fight,Brooklyn
+20241115,robbery,Mugging in an alleyway; a passerby saw the suspect flee,Manhattan
+20230528,arson,Intentional fire in a storage unit,Staten Island
+20250819,bribery,Bribe offered to a code enforcement officer; witness recorded the audio,Manhattan
+20240101,theft,Phone stolen from a restaurant table,Staten Island
+20231105,murder,Investigation into a shooting at a park; several joggers were witnesses,Queens
+20251230,fraud,Phishing scam targeting school employees,Brooklyn
+20240618,assault,Dispute at a sporting event; several fans witnessed the hit,Bronx
+20231025,robbery,Bank robbery with a weapon shown,Manhattan
+20250120,arson,Small fire set in a public restroom; witness saw a suspect entering,Brooklyn
+20240428,theft,Bicycle stolen from a front porch,Manhattan
+20230211,murder,Homicide investigation following a shooting; neighbor heard the shots,Staten Island
+20251111,bribery,Cash exchange observed between a developer and an official,Manhattan
+20240910,fraud,Investment scam targeting the elderly,Staten Island
+20230830,assault,Physical altercation in a parking garage; a witness called security,Queens
+20250505,robbery,Mugging at a transit stop,Brooklyn
+20241215,arson,Car fire set in a residential driveway; neighbor saw the suspect,Bronx
+20230701,theft,Lawn equipment stolen from a shed,Manhattan
+20250210,murder,Body discovered in a wooded area; no witnesses reported,Brooklyn
+20240410,fraud,Identity theft used to open accounts; bank teller acted as a witness,Manhattan
+20231115,assault,Customer assaulted a staff member,Staten Island
+20250915,robbery,Pharmacy robbed of narcotics; witness identified a suspect,Brooklyn
+20240722,arson,Intentional fire set to a fence,Staten Island
+20230509,bribery,Bribe paid to an official for a city contract; witnessed by an aide,Queens
+20250119,theft,Shoplifting incident at a grocery store,Brooklyn
+20241108,murder,Fatal shooting in a residential neighborhood; several witnesses identified a car,Bronx
+20231228,fraud,Counterfeit checks used for a large purchase,Manhattan
+20250625,assault,Altercation at a public park; witness recorded the fight,Brooklyn
+20240215,robbery,Pedestrian robbed of their cell phone,Manhattan
+20231019,arson,Structure fire at a warehouse; witness reported a person with a lighter,Staten Island
+20251105,bribery,Bribe offered to influence a legal case,Manhattan
+20240515,theft,Tools stolen from a work van; neighbor saw a suspect,Staten Island
+20230730,murder,Investigation into a shooting death,Queens
+20250915,fraud,Insurance fraud involving property damage; adjuster acted as a witness,Brooklyn
+20240115,assault,Physical fight at a bar,Bronx
+20230915,robbery,Store clerk robbed at gunpoint; customer saw the suspect flee,Manhattan
+20251230,arson,Vehicle set on fire in a public lot,Brooklyn
+20240805,theft,Backpack stolen from a bus station; witness saw the suspect,Brooklyn
+20230302,murder,Homicide investigation following a drive-by,Staten Island
+20250105,bribery,Bribe paid to a government official; witnessed by a staffer,Brooklyn
+20241111,fraud,Identity theft involving a data breach,Staten Island
+20230625,assault,Person struck with a weapon during a dispute; neighbor saw the hit,Queens
+20251020,robbery,Convenience store robbery,Brooklyn
+20240422,arson,Intentional fire set in an empty field; witness saw a suspect fleeing,Bronx
+20231215,theft,Bicycle stolen from a balcony,Manhattan
+20250819,murder,Fatal stabbing in a subway station; multiple witnesses identified the suspect,Brooklyn
+20240612,fraud,Email scam targeting corporate employees,Manhattan
+20231128,assault,Bar fight resulting in minor injuries; bartender was a witness,Staten Island
+20250415,robbery,Bank robbery involving a masked individual,Manhattan
+20240228,arson,Small fire set in a vacant lot; witness reported a hooded figure,Staten Island
+20230514,bribery,Attempted bribe of a city official,Queens
+20251015,theft,Purse taken from a shopping cart; witness provided a description,Brooklyn
+20240925,murder,Investigation into a shooting death,Bronx
+20230815,fraud,Skimming device found at a gas station; witness saw someone tampering,Manhattan
+20250120,assault,Altercation between two neighbors,Brooklyn
+20240419,robbery,Mugging in a public park; a jogger acted as a witness,Manhattan
+20231030,arson,Intentional fire in a storage unit,Staten Island
+20250910,bribery,Bribe paid to a procurement officer; witnessed by a coworker,Brooklyn
+20240705,theft,Retail theft of electronics,Staten Island
+20230122,murder,Shooting in a residential area; witness identified a silver sedan,Queens
+20251119,fraud,Unemployment fraud involving stolen info,Brooklyn
+20240215,assault,Person hit with a glass bottle in a bar; multiple witnesses present,Bronx
+20230509,robbery,Carjacking at a red light,Brooklyn
+20250805,arson,House fire determined to be arson; neighbor saw a suspect flee,Brooklyn
+20241111,theft,Phone stolen from a table,Manhattan
+20230319,murder,Fatal stabbing during a dispute; several witnesses fled,Staten Island
+20250528,bribery,Bribe offered to a building inspector,Brooklyn
+20241019,fraud,Counterfeit bills passed at a market; cashier acted as a witness,Staten Island
+20230810,assault,Domestic violence incident reported by a neighbor,Queens
+20250625,robbery,Armed robbery of a pedestrian,Brooklyn
+20240310,arson,Fire set to a vacant storefront; witness saw a suspect with a gas can,Bronx
+20231115,theft,Bicycle stolen from a rack,Manhattan
+20251230,murder,Homicide investigation following a shooting; neighbor heard shots,Brooklyn
+20240722,fraud,Identity theft involving a new credit line,Manhattan
+20230505,assault,Bar fight leading to hospitalizations; security acted as witnesses,Staten Island
+20250210,robbery,Convenience store robbery,Manhattan
+20240805,arson,Trash can fire set behind a building; witness saw a suspect,Staten Island
+20230119,bribery,Bribe paid to influence a city contract,Queens
+20251025,theft,Laptop stolen from a library,Brooklyn
+20241111,murder,Shooting in a parking lot; witness recorded the car's plate,Bronx
+20230612,fraud,Investment fraud targeting local seniors,Manhattan
+20250915,assault,Physical fight at a sporting event; several fans witnessed it,Brooklyn
+20240228,robbery,Mugging at a transit stop,Manhattan
+20230730,arson,Intentional fire set to a fence; neighbor saw a suspect fleeing,Staten Island
+20250422,bribery,Bribe offered to a health official,Manhattan
+20241010,theft,Purse taken from a car,Staten Island
+20230815,murder,Fatal stabbing in a residential driveway; witness saw a getaway car,Queens
+20250615,fraud,Identity theft used to open accounts,Brooklyn
+20240122,assault,Customer assaulted a staff member; multiple witnesses present,Bronx
+20231228,robbery,Bank heist involving a masked individual,Manhattan
+20250915,arson,Fire set in an abandoned lot; witness reported a suspicious figure,Brooklyn
+20240515,theft,Bicycle stolen from a backyard,Manhattan
+20231025,murder,Investigation into a drive-by shooting; several shell casings recovered,Staten Island
+20251111,bribery,Cash exchange observed between a developer and an official,Manhattan
+20240910,fraud,Phishing scam targeting corporate employees; IT acted as a witness,Staten Island
+20230505,assault,Physical altercation between two drivers,Queens
+20250310,robbery,Armed robbery of a pedestrian; witness saw the suspect flee,Brooklyn
+20241215,arson,Intentional fire set to a park bench,Bronx
+20230830,theft,Package stolen from a porch; neighbor saw a white truck,Manhattan
+20250715,murder,Shooting death outside a store; witness provided a detailed description,Brooklyn
+20240915,theft,Shoplifting of power tools from a hardware store; a store employee witnessed the suspect flee,Brooklyn
+20230520,bribery,Subcontractor offered cash for a building permit; witnessed by a city engineer,Brooklyn
+20251111,assault,Physical fight in a grocery store parking lot,Bronx
+20240105,murder,Fatal shooting during a domestic dispute; a neighbor reported hearing the shots,Staten Island
+20230822,fraud,Credit card skimming at a local gas station,Manhattan
+20250614,arson,Intentional fire set to a dumpster behind a retail mall; security footage under review,Staten Island
+20240318,robbery,Armed mugging at a transit station; several commuters gave statements,Manhattan
+20231201,theft,Bicycle stolen from a high school bike rack,Brooklyn
+20250930,murder,Body discovered in a city park; forensic investigation ongoing with no witnesses,Queens
+20240712,assault,Unprovoked attack on a pedestrian; witness provided a height description,Manhattan
+20231005,bribery,Cash bribe offered to a traffic officer during a routine stop,Bronx
+20250214,fraud,Identity theft involving fraudulent unemployment claims,Brooklyn
+20240522,arson,Vehicle fire spread to a residential fence; neighbor saw a suspect with a lighter,Staten Island
+20230119,robbery,Pharmacy robbed of prescription medications; a pharmacist was the sole witness,Manhattan
+20251130,theft,Package taken from a porch,Brooklyn
+20241215,murder,Investigation into a drive-by shooting; several shell casings recovered,Staten Island
+20230410,bribery,Attempted payoff to a health inspector; witness recorded the audio of the meeting,Manhattan
+20250805,fraud,Insurance scam involving a staged house fire,Queens
+20241021,assault,Altercation at a sporting event; multiple fans witnessed the hit,Brooklyn
+20230615,theft,Valuables stolen from an unlocked vehicle,Bronx
+20250122,robbery,Bank robbery involving a masked individual; teller provided a description,Manhattan
+20240909,arson,Small fire started in a public restroom,Staten Island
+20230211,murder,Fatal stabbing in a subway station; witness on the platform fled the scene,Manhattan
+20251210,fraud,Phishing attack targeting local university students,Manhattan
+20240428,bribery,Bribe paid to bypass environmental safety codes; witnessed by a technician,Brooklyn
+20230810,theft,Purse snatched from a shopping cart,Staten Island
+20250319,assault,Pushing and shoving match between drivers; witness recorded it on a phone,Queens
+20240129,arson,Intentional fire in an abandoned warehouse,Brooklyn
+20231115,robbery,Carjacking at a red light; witness gave a partial license plate,Bronx
+20251010,theft,Lawn equipment stolen from a shed,Manhattan
+20240606,murder,Homicide investigation following a shooting at a private residence; neighbor heard shots,Staten Island
+20230501,bribery,Bribe offered to a licensing clerk,Manhattan
+20250722,fraud,Investment fraud promising high returns; a whistleblower provided evidence,Manhattan
+20241111,assault,Customer assaulted a staff member over a refund dispute,Staten Island
+20230302,arson,Fire set to a construction crane; night watchman witnessed the act,Brooklyn
+20250915,theft,Laptop stolen from a public library,Queens
+20240215,robbery,Armed robbery of a convenience store; clerk provided a detailed statement,Brooklyn
+20230714,fraud,Mortgage fraud involving forged signatures,Bronx
+20250412,murder,Victim found with multiple gunshot wounds; no immediate witnesses found,Manhattan
+20241220,bribery,Bribe paid for a liquor license,Staten Island
+20231030,assault,Physical fight between fans at a concert; security guards acted as witnesses,Manhattan
+20250105,theft,Tools stolen from a work truck,Manhattan
+20240828,arson,Intentional fire set to a vacant home; neighbor caught it on camera,Brooklyn
+20230919,robbery,Mugging in an alleyway; a passerby called 911 immediately,Staten Island
+20250528,fraud,Counterfeit currency passed at a farmers market,Queens
+20240118,murder,Fatal shooting in a residential area; several witnesses identified a car,Brooklyn
+20231225,bribery,Attempted bribe of a building inspector,Bronx
+20251119,theft,Bicycle stolen from a balcony; witness saw the suspect climbing,Manhattan
+20240405,assault,Threats made with a weapon during a dispute,Staten Island
+20230719,arson,Trash can fire set behind a grocery store,Manhattan
+20250220,robbery,Store clerk robbed at gunpoint; witness hid in the back room,Manhattan
+20241108,theft,Phone stolen from a table while the owner was distracted,Brooklyn
+20230505,murder,Investigation into a fatal shooting at a strip mall; witness identified a sedan,Staten Island
+20250819,fraud,Social security fraud using a stolen identity,Queens
+20240310,bribery,Bribe paid to avoid a building code violation; witness provided internal emails,Brooklyn
+20230915,assault,Physical altercation between two motorists,Bronx
+20251215,theft,Copper wiring stolen from a construction site; witness saw a white truck,Manhattan
+20240705,robbery,Armed robbery of a pharmacy,Staten Island
+20230227,arson,Suspicious fire in an apartment basement; resident saw a suspect,Brooklyn
+20250625,murder,Homicide investigation at a local motel; no witnesses reported,Manhattan
+20240122,fraud,Online romance scam leading to financial loss,Brooklyn
+20231008,bribery,Cash exchange observed between a developer and an official,Staten Island
+20250910,assault,Security guard punched by an unruly patron; multiple witnesses present,Queens
+20240512,theft,Bicycle stolen from a park bench,Brooklyn
+20230815,robbery,Mugging at a transit stop; witness provided a suspect sketch,Bronx
+20250131,arson,Structure fire at a storage facility,Manhattan
+20240925,murder,Body discovered in a wooded area; homicide suspected; no witnesses,Staten Island
+20230325,bribery,Bribe offered to a procurement officer,Brooklyn
+20251105,theft,Purse taken from a grocery store cart; witness saw the suspect flee,Manhattan
+20240228,fraud,Email scam asking for personal information,Brooklyn
+20230730,assault,Bar fight resulting in minor injuries; bartender was a witness,Staten Island
+20251025,robbery,Pedestrian robbed of their cell phone at gunpoint,Queens
+20240419,arson,Small fire started in a public park; witness reported a suspect fleeing,Brooklyn
+20231128,theft,Laptop taken from a university cafe,Bronx
+20250422,murder,Shooting death outside a nightclub; many witnesses provided descriptions,Manhattan
+20241014,bribery,Contractor offered cash for an inspection pass,Staten Island
+20230514,fraud,Credit card fraud involving unauthorized orders; bank teller saw the card used,Manhattan
+20250810,assault,Domestic violence incident reported by a neighbor,Brooklyn
+20241201,theft,Tools stolen from a garage; homeowner saw a shadow,Brooklyn
+20230612,robbery,Convenience store holdup; witness provided a vehicle plate,Staten Island
+20251125,arson,Vehicle set on fire in a public lot,Queens
+20240322,murder,Drive-by shooting; several shell casings recovered; witness saw a dark SUV,Brooklyn
+20230910,bribery,Bribe paid to bypass building safety codes,Bronx
+20250210,theft,Shoplifting of electronics; security guard acted as witness,Manhattan
+20240115,fraud,Tax refund fraud using a deceased person's info,Staten Island
+20231228,assault,Physical fight at a sporting event; captured on camera with dozens of witnesses,Manhattan
+20250505,robbery,Mugging in a public park,Manhattan
+20240822,arson,Intentional fire set to a fence; neighbor saw a suspect with a gas can,Brooklyn
+20230319,theft,Package stolen from a porch,Staten Island
+20250711,murder,Fatal stabbing in a residential driveway; witness saw a getaway car,Queens
+20240404,bribery,Bribe offered to a city official for a contract bid,Brooklyn
+20231111,fraud,Counterfeit checks used for a large purchase; witness saw the suspect flee,Bronx
+20251230,assault,Altercation at a transit station,Manhattan
+20240618,theft,Bicycle stolen from a rack; witness saw the lock being cut,Staten Island
+20231019,robbery,Bank robbery involving a masked suspect; customers were present,Brooklyn
+20250919,arson,Structure fire at a warehouse,Manhattan
+20241115,murder,Investigation into a fatal shooting; neighbor reported hearing shots,Brooklyn
+20230811,fraud,Identity theft used to open store accounts,Staten Island
+20250401,bribery,Bribe paid to an official; witness provided a photo of the envelope,Queens
+20240122,theft,Lawn equipment stolen from a shed,Brooklyn
+20230925,assault,Person hit with a glass bottle; a bartender saw the incident,Bronx
+20251015,robbery,Armed robbery of a pharmacy; witness provided a detailed statement,Brooklyn
+20240505,arson,Small fire set in an abandoned lot,Staten Island
+20230112,murder,Homicide investigation following a gang shooting; no witnesses came forward,Manhattan
+20250617,fraud,Check kiting scheme uncovered at a bank,Manhattan
+20240210,bribery,Bribe offered to a DMV clerk; coworker reported the incident,Brooklyn
+20231105,theft,Phone stolen from a restaurant table,Staten Island
+20250830,assault,Dispute between coworkers escalated to violence; several witnesses identified the suspect,Queens
+20240612,robbery,Store clerk robbed during a night shift,Brooklyn
+20230419,arson,House fire determined to be arson; neighbor saw someone running away,Bronx
+20251212,murder,Homicide resulting from a botched drug deal,Manhattan
+20240101,fraud,Phishing attack targeting corporate employees; IT acted as witness,Staten Island
+20231015,bribery,Bribe offered to influence a legal case,Manhattan
+20250314,theft,Backpack stolen from a bus station; witness saw the suspect,Brooklyn
+20241118,assault,Road rage incident leading to a fight; witness recorded it on a phone,Brooklyn
+20230711,robbery,Convenience store robbery at gunpoint,Staten Island
+20250920,arson,Vehicle fire spread to a building; neighbor provided doorbell camera footage,Queens
+20240505,murder,Fatal stabbing in a subway station,Brooklyn
+20230214,fraud,Investment scam targeting local seniors; one victim provided a statement,Bronx
+20251125,bribery,Attempted bribe of a city official,Manhattan
+20240801,theft,Bicycle taken from a residential porch; witness saw a teenager,Staten Island
+20230630,assault,Physical fight at a bar,Brooklyn
+20251210,robbery,Pedestrian robbed of their watch; no witnesses in the alleyway,Manhattan
+20240112,arson,Trash fire set behind a shopping center,Brooklyn
+20230925,murder,Shooting at a party; multiple witnesses identified the shooter,Staten Island
+20250418,fraud,Skimming device found on an ATM; witness reported suspicious activity,Queens
+20241030,theft,Tools stolen from a construction site,Brooklyn
+20231111,bribery,Bribe paid to bypass a building inspection; coworker witnessed the exchange,Bronx
+20250702,assault,Security guard assaulted by a trespasser,Brooklyn
+20240322,robbery,Mugging at a gas station; witness provided a partial license plate,Staten Island
+20230528,arson,Intentional fire set to a fence,Manhattan
+20250228,murder,Body discovered in an abandoned building; homicide suspected; no witnesses,Manhattan
+20240909,fraud,Unemployment fraud involving stolen info,Brooklyn
+20230819,theft,Retail theft of electronics; security guard acted as the primary witness,Staten Island
+20251215,bribery,Bribe offered to a code officer,Queens
+20240405,assault,Bar fight leading to hospitalizations; dozens of patrons witnessed it,Brooklyn
+20230129,robbery,Armed robbery of a pedestrian,Bronx
+20250617,arson,Small fire started in a vacant storefront; witness reported a suspect,Brooklyn
+20241102,murder,Fatal shooting in a residential driveway,Staten Island
+20231008,fraud,Check fraud at a local boutique; witness identified the suspect,Brooklyn
+20250131,theft,Package stolen from a porch,Manhattan
+20240512,bribery,Bribe offered to a city official; secretary witnessed the meeting,Brooklyn
+20230714,assault,Physical altercation in a parking lot,Staten Island
+20250325,robbery,Convenience store robbery; witness hid in the back room,Queens
+20241220,arson,Fire set to a vehicle in a park,Brooklyn
+20230227,murder,Investigation into a fatal shooting; neighbor heard the altercation,Bronx
+20250810,fraud,Insurance fraud involving property damage; adjuster acted as a witness,Manhattan
+20240606,theft,Shoplifting of luxury goods,Staten Island
+20230305,bribery,Bribe paid to a building inspector; witnessed by a technician,Manhattan
+20251015,assault,Threats made with a weapon during a dispute,Manhattan
+20240128,robbery,Carjacking at gunpoint; witness provided a description of the car,Brooklyn
+20231115,arson,House fire determined to be arson; neighbor saw someone running,Staten Island
+20250522,theft,Laptop stolen from a library,Queens
+20240701,murder,Fatal stabbing in a public park; three witnesses provided statements,Brooklyn
+20230919,fraud,Investment scam targeting the elderly,Bronx
+20251119,bribery,Bribe paid to influence a city contract; witnessed by an aide,Manhattan
+20240215,theft,Power tools stolen from a work truck,Staten Island
+20230628,assault,Domestic violence incident reported by a neighbor,Brooklyn
+20250814,robbery,Store clerk robbed during a night shift; witness saw the getaway car,Brooklyn
+20241022,arson,Garbage fire set behind a building,Brooklyn
+20230501,murder,Homicide investigation following a gang-related shooting,Staten Island
+20250412,fraud,Email phishing scam; IT department acted as a witness,Queens
+20241215,theft,Bicycle stolen from a rack; witness saw the suspect flee on foot,Brooklyn
+20230811,bribery,Bribe offered to influence a legal case,Bronx
+20250205,assault,Fight in a parking garage; security cameras and one witness recorded it,Brooklyn
+20240419,robbery,Mugging in an alleyway,Staten Island
+20230122,arson,Structure fire at a storage facility; arson suspected; no witnesses,Manhattan
+20251111,theft,Purse stolen from the back of a chair,Brooklyn
+20240705,murder,Homicide resulting from a dispute; neighbor identified the suspect,Brooklyn
+20231030,fraud,Online romance scam leading to financial loss,Staten Island
+20250105,bribery,Kickback given to a purchasing agent; witnessed by an accountant,Queens
+20240914,theft,Package theft caught on a doorbell camera,Brooklyn
+20230412,assault,Physical altercation between two drivers,Bronx
+20250528,robbery,Bank heist involving a masked individual; several customers provided statements,Manhattan
+20240118,arson,Fire set to a vacant home,Staten Island
+20231220,murder,Fatal shooting in a driveway; witness identified a silver sedan,Manhattan
+20250711,fraud,Skimming device found at a gas pump,Manhattan
+20240329,theft,Jewelry stolen from a residence; neighbor heard glass breaking,Brooklyn
+20230518,bribery,Bribe offered to a licensing official,Staten Island
+20250930,assault,Customer assaulted a fast-food worker; multiple patrons witnessed it,Queens
+20241111,robbery,Pharmacy robbed of prescription meds,Brooklyn
+20230719,arson,Intentional fire in a public park; witness reported a suspect,Bronx
+20250220,theft,Backpack stolen from a bus station,Manhattan
+20240822,murder,Shooting death outside a store; witness provided a height description,Staten Island
+20230302,fraud,Mortgage fraud involving forged signatures,Manhattan
+20251030,bribery,Cash exchange observed between a developer and an official,Manhattan
+20241222,theft,Tools stolen from a garage; witness saw a white van leaving,Brooklyn
+20230910,assault,Threats made with a weapon,Staten Island
+20250425,robbery,Convenience store holdup; clerk provided a detailed statement,Queens
+20241115,arson,Vehicle fire spread to a building,Brooklyn
+20230528,murder,Body found in a wooded area; homicide suspected,Bronx
+20250819,fraud,Identity theft involving a new credit line; bank teller acted as witness,Manhattan
+20240101,theft,Laptop taken from a university cafe,Staten Island
+20231105,bribery,Bribe offered to a DMV clerk; coworker reported the incident,Brooklyn
+20251230,assault,Altercation at a transit stop; witness provided a suspect sketch,Manhattan
+20240618,robbery,Mugging in a public park,Brooklyn
+20231025,arson,Intentional fire in a dumpster,Staten Island
+20250120,murder,Homicide resulting from a botched drug deal; witness fleeing the scene,Queens
+20251114,bribery,Payoff offered to a city inspector for a building permit; witnessed by a site supervisor,Staten Island
+20230402,theft,Shoplifting incident at a boutique store; no witnesses were present,Brooklyn
+20240912,assault,Physical altercation outside a stadium; multiple fans witnessed the event,Brooklyn
+20251219,murder,Fatal shooting in a residential alleyway,Bronx
+20230628,fraud,Skimming device found on an ATM at a local bank; witness reported suspicious activity,Manhattan
+20240130,arson,Trash fire set behind a library; janitor saw a suspect fleeing,Brooklyn
+20250711,robbery,Armed robbery at a convenience store,Brooklyn
+20231005,theft,Bicycle stolen from a front porch; neighbor saw a teenager on a bike,Staten Island
+20240522,murder,Homicide investigation following a domestic dispute,Queens
+20250314,bribery,Cash bribe offered to a traffic officer; dashcam footage acted as a witness,Staten Island
+20231201,assault,Unprovoked attack on a transit platform,Manhattan
+20241118,fraud,Identity theft involving a fraudulent loan application; bank manager acted as witness,Manhattan
+20250830,arson,Vehicle set on fire in a public parking lot,Bronx
+20230214,robbery,Mugging in a public park; witness provided a detailed height description,Manhattan
+20240623,theft,Laptop stolen from a library table,Brooklyn
+20250109,murder,Shooting death outside a nightclub; dozens of patrons witnessed the incident,Brooklyn
+20230419,bribery,Bribe paid to bypass environmental safety codes,Staten Island
+20240915,assault,Threats made with a blunt object during a dispute; neighbor called 911,Queens
+20251111,theft,Power tools stolen from a construction site,Staten Island
+20230805,fraud,Online auction scam resulting in financial loss; witness provided email logs,Manhattan
+20240322,arson,Intentional fire set to a fence,Manhattan
+20251015,robbery,Carjacking at a red light; witness provided a partial license plate,Bronx
+20230714,theft,Purse snatched from a shopping cart,Brooklyn
+20240215,murder,Body discovered in a wooded area; homicide suspected; no witnesses,Brooklyn
+20250920,bribery,Attempted bribe of a building official,Brooklyn
+20230501,assault,Bar fight leading to minor injuries; bartender was a witness,Staten Island
+20241215,fraud,Insurance fraud involving property damage,Queens
+20250606,arson,Structure fire at a vacant warehouse; witness saw a person with a gas can,Staten Island
+20230919,theft,Bicycle stolen from a rack,Manhattan
+20240705,robbery,Pharmacy robbed of prescription meds; pharmacist provided a statement,Brooklyn
+20250131,murder,Fatal stabbing in a subway station,Bronx
+20231115,bribery,Kickback paid to a purchasing agent; witnessed by a coworker,Brooklyn
+20240411,theft,Package stolen from a mailroom,Brooklyn
+20250814,assault,Security guard assaulted by a trespasser; witness recorded the fight,Brooklyn
+20230305,fraud,Check kiting scheme uncovered at a bank,Staten Island
+20241022,arson,Brush fire started with an accelerant; witness saw a suspect in the area,Queens
+20250412,theft,Tools stolen from a work truck,Staten Island
+20230122,robbery,Armed robbery of a pedestrian; a passerby saw the suspect flee,Manhattan
+20240801,murder,Drive-by shooting incident; witness identified a dark sedan,Manhattan
+20251210,bribery,Bribe offered to a licensing official,Bronx
+20230630,assault,Physical fight in a parking lot; several bystanders intervened,Manhattan
+20240112,theft,Phone stolen from a restaurant table,Brooklyn
+20250702,fraud,Tax refund fraud using a stolen identity; witness provided a statement,Brooklyn
+20231030,arson,Vehicle fire spread to a building,Staten Island
+20240505,robbery,Store clerk robbed at gunpoint; customer saw the suspect flee,Queens
+20250228,theft,Jewelry stolen from a residence,Staten Island
+20230925,murder,Fatal shooting in a public park; witness provided a suspect sketch,Manhattan
+20241102,bribery,Bribe paid to bypass an inspection,Manhattan
+20250617,assault,Domestic violence incident; neighbor reported hearing a struggle,Bronx
+20230412,fraud,Phishing attack targeting university students,Manhattan
+20240128,arson,Intentional fire in a public park; witness saw a hooded figure,Brooklyn
+20251119,theft,Backpack stolen from a bus station,Brooklyn
+20230819,robbery,Convenience store holdup; witness hid in the back room,Staten Island
+20240329,murder,Homicide investigation following a shooting,Queens
+20250915,bribery,Attempted bribe of a city official; secretary witnessed the meeting,Staten Island
+20230711,theft,Package theft from a porch,Manhattan
+20241220,fraud,Mortgage fraud involving forged signatures; notary was a witness,Manhattan
+20250522,assault,Physical altercation between two drivers,Bronx
+20230227,arson,Small fire set in a vacant lot; witness reported a suspect fleeing,Manhattan
+20240701,robbery,Armed robbery of a pedestrian,Brooklyn
+20250415,theft,Tools stolen from a garage; neighbor saw a suspicious white van,Brooklyn
+20231119,murder,Victim found with gunshot wounds; no immediate witnesses found,Staten Island
+20240909,bribery,Bribe paid to an official for a city contract,Queens
+20250210,assault,Person hit with a glass bottle; bartender saw the incident,Staten Island
+20230528,fraud,Counterfeit currency passed at a market,Brooklyn
+20241030,arson,Structure fire at a storage facility; fire marshal reported arson,Manhattan
+20251225,theft,Lawn equipment stolen from a shed,Bronx
+20230112,robbery,Mugging in an alleyway; witness provided a vehicle plate,Manhattan
+20240404,murder,Shooting death outside a bar; several patrons witnessed the hit,Brooklyn
+20251130,bribery,Cash bribe offered to a clerk,Brooklyn
+20230928,theft,Bicycle stolen from a high school bike rack; no witnesses,Staten Island
+20241212,fraud,Investment scam targeting seniors; witness provided a statement,Queens
+20250615,assault,Fight at a transit station,Staten Island
+20230719,arson,Car fire set in a residential driveway; neighbor caught it on video,Manhattan
+20240211,robbery,Bank robbery by a lone suspect,Brooklyn
+20251030,theft,Phone stolen from a gym locker; witness saw the suspect using bolt cutters,Bronx
+20231205,murder,Homicide investigation at a motel,Manhattan
+20240817,bribery,Bribe paid to influence a city contract; witness provided internal emails,Brooklyn
+20250320,fraud,Check fraud at a boutique store,Brooklyn
+20230514,assault,Road rage incident leading to a fight; witness recorded it on a phone,Staten Island
+20240115,arson,Small fire started in a public restroom,Queens
+20250919,theft,Package stolen from a porch; caught on camera with one witness,Staten Island
+20231002,robbery,Street robbery involving a firearm,Manhattan
+20240828,murder,Fatal stabbing in a subway station; witness on platform gave a statement,Brooklyn
+20250220,bribery,Bribe offered to a building inspector,Bronx
+20230612,theft,Wallet taken from a coat pocket,Brooklyn
+20240315,fraud,Identity theft used to open accounts; bank teller acted as a witness,Brooklyn
+20251125,assault,Customer assaulted a staff member,Brooklyn
+20230905,arson,Vehicle set on fire; neighbor saw a person fleeing,Staten Island
+20241102,robbery,Mugging in a public park,Queens
+20250628,theft,Bicycle stolen from a balcony; neighbor witnessed the climb,Staten Island
+20230722,murder,Shooting at a public park; three witnesses identified,Manhattan
+20240118,bribery,Bribe offered to a DMV clerk,Manhattan
+20250930,fraud,Investment fraud targeting local businesses; whistleblower provided evidence,Bronx
+20231220,assault,Security guard assaulted by a trespasser,Brooklyn
+20240410,arson,Intentional fire set in an empty lot; witness saw a suspect,Brooklyn
+20250505,theft,Shoplifting of electronics,Brooklyn
+20231015,robbery,Armed robbery of a pedestrian; witness provided a description,Staten Island
+20240822,murder,Homicide investigation at an apartment complex,Queens
+20250101,bribery,Cash exchange observed between a developer and an official,Staten Island
+20230330,theft,Purse stolen from a chair,Brooklyn
+20241220,fraud,Phishing scam targeting employees; IT department acted as witness,Manhattan
+20250415,assault,Dispute between neighbors escalated to violence,Bronx
+20230509,arson,House fire determined to be arson; neighbor saw someone running away,Manhattan
+20241111,robbery,Store clerk robbed during a night shift,Brooklyn
+20250810,theft,Tools stolen from a work van; witness saw a suspect fleeing,Brooklyn
+20230628,murder,Investigation into a shooting death,Staten Island
+20240101,bribery,Bribe offered to bypass a health inspection; witness recorded audio,Queens
+20250214,fraud,Identity theft involving stolen mail,Staten Island
+20230919,assault,Physical fight between two motorists; several drivers witnessed it,Brooklyn
+20241030,arson,Trash can fire set behind a building,Manhattan
+20250325,theft,Bicycle stolen from a residential porch; witness saw the suspect,Bronx
+20231201,robbery,Bank robbery involving a masked suspect,Brooklyn
+20240512,murder,Fatal stabbing in a park; witness provided a suspect description,Brooklyn
+20250120,bribery,Bribe paid to influence a legal case,Brooklyn
+20230815,theft,Package theft from a mailroom; security alerted by a witness,Staten Island
+20241125,fraud,Insurance fraud involving property damage,Queens
+20250601,assault,Person hit with a weapon; neighbor saw the hit,Staten Island
+20230211,arson,Intentional fire in an abandoned home,Manhattan
+20240419,robbery,Mugging at gunpoint; witness provided a suspect sketch,Manhattan
+20250910,theft,Laptop stolen from a cafe,Bronx
+20231030,murder,Body discovered in a dumpster; homicide suspected; no witnesses,Manhattan
+20240705,bribery,Bribe paid to an official for a contract,Brooklyn
+20251105,fraud,Skimming device found at a gas pump; witness reported tampering,Brooklyn
+20230122,assault,Physical fight at a sporting event,Staten Island
+20240215,arson,Fire set to a vehicle in a public lot; witness saw a suspect,Queens
+20251215,theft,Lawn equipment stolen from a shed,Staten Island
+20230514,robbery,Armed robbery of a pharmacy; pharmacist provided a statement,Brooklyn
+20240925,murder,Fatal shooting in a residential driveway,Manhattan
+20250819,bribery,Bribe offered to influence a city contract; witnessed by an aide,Bronx
+20231128,fraud,Investment fraud targeting seniors,Manhattan
+20240612,assault,Threats made with a weapon during a dispute; neighbor called 911,Brooklyn
+20251015,arson,Small fire started in a vacant lot,Brooklyn
+20230305,theft,Purse taken from a shopping cart; witness saw the suspect flee,Staten Island
+20241201,robbery,Carjacking at gunpoint,Queens
+20250422,murder,Shooting death outside a nightclub; several witnesses identified the car,Staten Island
+20230910,bribery,Attempted bribe of a building inspector,Brooklyn
+20241108,fraud,Check kiting scheme uncovered at a bank; bank teller was a witness,Manhattan
+20250131,assault,Physical altercation between two neighbors,Bronx
+20230722,arson,House fire determined to be arson; neighbor saw someone running,Manhattan
+20240115,theft,Bicycle stolen from a rack,Brooklyn
+20250510,robbery,Pedestrian mugged for their watch; witness saw the suspect flee,Brooklyn
+20231225,murder,Homicide investigation following a shooting,Staten Island
+20240405,bribery,Bribe paid to a government official; witnessed by a staffer,Queens
+20250919,fraud,Counterfeit checks used for a purchase,Staten Island
+20231002,assault,Physical fight at a bar; bartender saw the incident,Brooklyn
+20240828,arson,Intentional fire set to a fence,Manhattan
+20250220,theft,Laptop stolen from a library table; student saw the suspect,Bronx
+20230612,robbery,Convenience store holdup,Manhattan
+20240322,murder,Fatal stabbing in a subway; witness on platform gave a statement,Brooklyn
+20251130,bribery,Bribe offered to bypass an inspection,Brooklyn
+20230219,fraud,Skimming device found at a gas station,Staten Island
+20241010,assault,Customer assaulted a staff member; multiple witnesses present,Queens
+20250615,arson,Small fire set behind a building; witness saw a suspect,Staten Island
+20230518,theft,Purse stolen from a chair,Brooklyn
+20241222,robbery,Mugging in a public park; witness called 911 immediately,Manhattan
+20250401,murder,Shooting death outside a store,Bronx
+20230925,bribery,Cash exchange observed between a developer and an official,Manhattan
+20240714,fraud,Investment fraud targeting local businesses,Brooklyn
+20251025,assault,Physical altercation in a parking lot; witness recorded the fight,Brooklyn
+20230115,arson,Vehicle fire spread to a building,Staten Island
+20240129,theft,Bicycle stolen from a balcony,Queens
+20250805,robbery,Armed robbery of a pharmacy; pharmacist provided a description,Staten Island
+20230810,murder,Homicide investigation following a drive-by,Manhattan
+20241115,bribery,Attempted bribe of a city official; witness recorded audio,Manhattan
+20250528,fraud,Identity theft used to open accounts,Bronx
+20230319,assault,Security guard assaulted by a trespasser,Brooklyn
+20240210,arson,Fire set to a vacant storefront; witness saw a person fleeing,Brooklyn
+20251220,theft,Package theft caught on camera,Brooklyn
+20231105,robbery,Store clerk robbed during the night shift; witness provided a statement,Staten Island
+20240618,murder,Fatal shooting in a residential neighborhood,Queens
+20250925,bribery,Bribe paid to influence a legal case; witnessed by a clerk,Staten Island
+20230701,fraud,Email scam asking for personal information,Manhattan
+20240428,assault,Bar fight leading to minor injuries; security was a witness,Manhattan
+20250105,arson,Intentional fire in a public park,Bronx
+20231025,theft,Tools stolen from a construction site; witness saw a white truck,Manhattan
+20240910,robbery,Mugging at gunpoint,Brooklyn
+20251111,murder,Shooting death outside a nightclub; many patrons witnessed the hit,Brooklyn
+20230505,bribery,Bribe paid to a building inspector,Staten Island
+20241215,fraud,Skimming device found at a local market; witness reported tampering,Queens
+20250310,assault,Threats made with a weapon,Staten Island
+20230830,arson,House fire determined to be arson; neighbor saw a suspect flee,Manhattan
+20240122,theft,Bicycle stolen from a front porch,Manhattan
+20250715,robbery,Armed robbery of a pedestrian; witness provided a suspect sketch,Bronx
+20230215,murder,Investigation into a fatal shooting; neighbor heard the shots,Manhattan
+20241019,bribery,Bribe offered to influence a city contract,Brooklyn
+20250625,fraud,Check fraud at a local boutique; witness identified the suspect,Brooklyn
+20230915,assault,Physical altercation in a parking garage,Staten Island
+20240310,arson,Car fire set in a public lot; witness saw a suspect,Queens
+20251230,theft,Laptop stolen from a cafe,Staten Island
+20231115,robbery,Convenience store holdup; clerk provided a detailed statement,Brooklyn
+20240722,murder,Fatal stabbing in a park; no witnesses were present,Brooklyn
+20250210,bribery,Bribe paid to bypass an inspection; coworker witnessed it,Bronx
+20230412,fraud,Counterfeit bills passed at a grocery store,Manhattan
+20240805,assault,Customer assaulted a staff member; multiple witnesses identified the hit,Brooklyn
+20250119,arson,Intentional fire set to a fence,Brooklyn
+20230625,theft,Purse snatched from a shopping cart; witness provided a description,Staten Island
+20241111,robbery,Mugging at gunpoint,Queens
+20251020,murder,Shooting death outside a store; witness provided a vehicle plate,Staten Island
+20231228,bribery,Attempted bribe of a DMV clerk,Manhattan
+20240515,fraud,Online romance scam leading to financial loss; victim was a witness,Manhattan
+20250915,assault,Physical fight at a sporting event,Bronx
+20230730,arson,Small fire set behind a building; witness saw a hooded figure,Manhattan
+20240228,theft,Laptop taken from a library table,Brooklyn
+20250422,robbery,Armed robbery of a pedestrian; witness provided a statement,Brooklyn
+20241010,murder,Investigation into a shooting death,Staten Island
+20230815,bribery,Bribe paid to influence a legal case; witnessed by an aide,Queens
+20250615,fraud,Identity theft involving stolen mail,Staten Island
+20240122,assault,Dispute at a bar escalated to violence; bartender saw the hit,Brooklyn
+20231228,arson,Vehicle set on fire,Manhattan
+20250915,theft,Bicycle stolen from a rack; witness saw the suspect flee,Bronx
+20240515,robbery,Carjacking at a red light,Brooklyn
+20231025,murder,Fatal stabbing during a dispute; neighbor reported the event,Brooklyn
+20251111,bribery,Bribe offered to bypass building codes,Brooklyn
+20240910,fraud,Insurance fraud involving property damage; witness provided photos,Staten Island
+20230505,assault,Physical altercation between drivers,Queens
+20250310,arson,Intentional fire set to a park bench; witness saw a suspect,Staten Island
+20241215,theft,Package stolen from a porch,Manhattan
+20230830,robbery,Mugging in a public park; witness provided a description,Manhattan
+20250715,murder,Fatal shooting in a residential neighborhood,Bronx
+20240215,bribery,Bribe paid to an official for a city contract; witnessed by a staffer,Brooklyn
+20230628,fraud,Skimming device found at a gas pump,Brooklyn
+20251212,assault,Customer assaulted a staff member; multiple witnesses present,Brooklyn
+20240101,arson,Small fire set in a vacant lot; witness reported a suspect fleeing,Staten Island
+20231015,theft,Bicycle stolen from a balcony,Queens
+20250314,robbery,Armed robbery of a pharmacy; pharmacist provided a statement,Staten Island
+20241118,murder,Shooting death in a parking lot; witness identified the getaway car,Brooklyn
+20230711,bribery,Bribe offered to a licensing official,Manhattan
+20250920,fraud,Investment fraud targeting the elderly; witness provided internal documents,Bronx
+20240505,assault,Physical altercation between coworkers,Manhattan
+20230214,arson,House fire determined to be arson; neighbor saw someone running away,Brooklyn
+20251125,theft,Tools stolen from a work truck,Brooklyn
+20240801,robbery,Pedestrian robbed of their cell phone at gunpoint; witness provided a description,Staten Island
+20230630,murder,Homicide investigation at a local motel,Queens
+20251210,bribery,Bribe paid for a liquor license; witnessed by a technician,Staten Island
+20240112,fraud,Email scam asking for personal information,Manhattan
+20230925,assault,Physical fight at a bar; bartender was a witness,Manhattan
+20250418,arson,Intentional fire in a storage unit,Bronx
+20241030,theft,Package theft caught on camera; neighbor provided the footage,Manhattan
+20231111,robbery,Mugging in an alleyway,Brooklyn
+20250702,murder,Shooting death outside a store; several witnesses were present,Brooklyn
+20240322,bribery,Bribe offered to influence a city contract,Staten Island
+20230528,fraud,Counterfeit bills passed at a market; cashier acted as a witness,Queens
+20250228,assault,Domestic violence incident reported by a neighbor,Staten Island
+20240909,arson,Vehicle set on fire in a public lot,Brooklyn
+20230819,theft,Shoplifting of electronics; security guard acted as a witness,Manhattan
+20251215,robbery,Armed robbery of a pedestrian,Bronx
+20240405,murder,Fatal stabbing in a residential driveway; witness saw a suspect fleeing,Manhattan
+20230129,bribery,Attempted bribe of a building inspector,Brooklyn
+20250617,fraud,Check fraud at a local boutique; witness provided a statement,Brooklyn
+20241102,assault,Physical fight at a sporting event,Staten Island
+20231008,arson,Small fire set behind a building; witness reported a suspect,Queens
+20250131,theft,Laptop stolen from a cafe,Staten Island
+20240512,robbery,Carjacking at a red light; witness provided a vehicle description,Manhattan
+20230714,murder,Shooting in a residential area; neighbor heard shots and called 911,Manhattan
+20250325,bribery,Bribe paid to an official for a city contract,Bronx
+20241220,fraud,Identity theft used to open accounts; bank manager acted as witness,Manhattan
+20230227,assault,Security guard assaulted by a trespasser,Brooklyn
+20250810,arson,Structure fire at a storage facility; arson suspected,Brooklyn
+20240606,theft,Bicycle stolen from a rack; witness provided a suspect description,Staten Island
+20230305,robbery,Armed robbery of a pharmacy,Queens
+20251015,murder,Investigation into a drive-by shooting; several shell casings recovered,Staten Island
+20240128,bribery,Bribe offered to a licensing official; witness recorded audio,Manhattan
+20231115,fraud,Skimming device found at a gas pump,Manhattan
+20250522,assault,Physical altercation between drivers; witness recorded the incident,Bronx
+20240701,arson,Vehicle set on fire; neighbor saw a suspect fleeing,Manhattan
+20230919,theft,Purse stolen from a shopping cart,Brooklyn
+20251119,robbery,Convenience store robbery; witness provided a detailed statement,Brooklyn
+20240215,murder,Homicide investigation following a shooting,Staten Island
+20230628,bribery,Bribe offered to a city official; secretary acted as witness,Queens
+20250814,fraud,Phishing scam targeting employees,Staten Island
+20241022,assault,Physical fight at a bar; bartender provided a suspect description,Manhattan
+20230501,arson,Intentional fire in a vacant storefront,Brooklyn
+20250412,theft,Laptop taken from a library table,Bronx
+20241215,robbery,Mugging in a public park; witness provided a description,Manhattan
+20230811,murder,Fatal stabbing in a park; no witnesses reported,Brooklyn
+20250205,bribery,Bribe paid to influence a legal case; witnessed by an aide,Brooklyn
+20240419,fraud,Insurance fraud involving a staged house fire,Staten Island
+20230122,assault,Road rage incident leading to a fight; several drivers witnessed it,Queens
+20251111,arson,Small fire set in a vacant lot,Staten Island
+20240705,theft,Bicycle stolen from a porch; neighbor saw the suspect flee,Manhattan
+20231030,robbery,Bank heist involving a masked individual,Manhattan
+20250105,murder,Shooting death outside a bar; several patrons witnessed the hit,Bronx
+20240914,bribery,Bribe offered to a building inspector,Brooklyn
+20230412,fraud,Investment fraud targeting the elderly; witness provided internal documents,Brooklyn
+20250528,assault,Physical altercation in a parking garage,Brooklyn
+20240118,arson,Vehicle fire spread to a building; neighbor provided doorbell footage,Staten Island
+20231220,theft,Purse taken from a chair; witness provided a suspect description,Queens
+20250711,robbery,Mugging at gunpoint,Staten Island
+20240404,murder,Body discovered in an abandoned building; homicide suspected,Manhattan
+20231111,bribery,Kickback given to a purchasing agent; witnessed by an accountant,Brooklyn
+20251230,fraud,Phishing scam targeting corporate employees,Bronx
+20240618,assault,Customer assaulted a staff member; several patrons witnessed it,Brooklyn
+20231019,arson,Trash can fire set behind a grocery store; witness saw a suspect fleeing,Brooklyn
+20250919,theft,Lawn equipment stolen from a shed,Brooklyn
+20241115,robbery,Store clerk robbed at gunpoint; customer saw the suspect flee,Staten Island
+20230811,murder,Homicide resulting from a dispute; neighbor identified the suspect,Queens
+20250401,bribery,Attempted bribe of a city official,Staten Island
+20240122,fraud,Skimming device found at a local market; witness reported tampering,Manhattan
+20230925,assault,Physical fight at a sporting event; witness recorded the incident,Brooklyn
+20251015,arson,Structure fire determined to be arson,Bronx
+20240505,theft,Tools stolen from a work van; neighbor provided a description,Manhattan
+20230112,robbery,Armed robbery of a pharmacy; pharmacist provided a description,Brooklyn
+20250617,murder,Fatal shooting in a park; witness identified a silver sedan,Brooklyn
+20240210,bribery,Bribe paid to bypass an inspection,Staten Island
+20231105,fraud,Identity theft used to open store accounts,Queens
+20250830,assault,Physical altercation between drivers; witness provided doorbell footage,Staten Island
+20240915,theft,Shoplifting of power tools from a hardware store; a store employee witnessed the suspect flee,Brooklyn
+20230520,bribery,Subcontractor offered cash for a building permit; witnessed by a city engineer,Brooklyn
+20251111,assault,Physical fight in a grocery store parking lot; two bystanders intervened and provided statements,Bronx
+20240105,murder,Fatal shooting during a domestic dispute; a neighbor reported hearing the shots,Staten Island
+20230822,fraud,Credit card skimming at a local gas station; witness reported a suspect tampering with the pump,Manhattan
+20250614,arson,Intentional fire set to a dumpster behind a retail mall; security footage under review,Staten Island
+20240318,robbery,Armed mugging at a transit station; several commuters gave statements,Manhattan
+20231201,theft,Bicycle stolen from a high school bike rack; no witnesses were present,Brooklyn
+20250930,murder,Body discovered in a city park; forensic investigation ongoing with no witnesses,Queens
+20240712,assault,Unprovoked attack on a pedestrian; witness provided a height description,Manhattan
+20231005,bribery,Cash bribe offered to a traffic officer during a routine stop; witnessed by a passenger,Bronx
+20250214,fraud,Identity theft involving fraudulent unemployment claims; whistleblower provided evidence,Brooklyn
+20240522,arson,Vehicle fire spread to a residential fence; neighbor saw a suspect with a lighter,Staten Island
+20230119,robbery,Pharmacy robbed of prescription medications; a pharmacist was the sole witness,Manhattan
+20251130,theft,Package taken from a porch; caught on a doorbell camera with a witness across the street,Brooklyn
+20241215,murder,Investigation into a drive-by shooting; several witnesses identified a dark SUV,Staten Island
+20230410,bribery,Attempted payoff to a health inspector; witness recorded the audio of the meeting,Manhattan
+20250805,fraud,Insurance scam involving a staged house fire; a former associate acted as a witness,Queens
+20241021,assault,Altercation at a sporting event; multiple fans witnessed the hit,Brooklyn
+20230615,theft,Valuables stolen from an unlocked vehicle; no witnesses reported,Bronx
+20250122,robbery,Bank robbery involving a masked individual; teller provided a description,Manhattan
+20240909,arson,Small fire started in a public restroom; janitor saw a suspect fleeing the scene,Staten Island
+20230211,murder,Fatal stabbing in a subway station; witness on the platform fled the scene,Manhattan
+20251210,fraud,Phishing attack targeting local university students; IT department acted as a witness,Manhattan
+20240428,bribery,Bribe paid to bypass environmental safety codes; witnessed by a technician,Brooklyn
+20230810,theft,Purse snatched from a shopping cart; several shoppers saw the suspect,Staten Island
+20250319,assault,Pushing and shoving match between drivers; witness recorded it on a phone,Queens
+20240129,arson,Intentional fire in an abandoned warehouse; witness saw a person with a gas can,Brooklyn
+20260127,theft,Domenic Laun reported multiple packages taken from his porch. Two residents across the street might have seen the thief,Brooklyn
+20231115,robbery,Carjacking at a red light; witness gave a partial license plate,Bronx
+20251010,theft,Lawn equipment stolen from a shed; neighbor provided a description of the getaway vehicle,Manhattan
+20240606,murder,Homicide investigation following a shooting at a private residence; neighbor heard shots,Staten Island
+20230501,bribery,Bribe offered to a licensing clerk; coworker witnessed the interaction,Manhattan
+20250722,fraud,Investment fraud promising high returns; a whistleblower provided evidence,Manhattan
+20241111,assault,Customer assaulted a staff member over a refund dispute; other patrons gave statements,Staten Island
+20230302,arson,Fire set to a construction crane; night watchman witnessed the act,Brooklyn
+20250915,theft,Laptop stolen from a public library; librarian saw the suspect,Queens
+20240215,robbery,Armed robbery of a convenience store; clerk provided a detailed statement,Brooklyn
+20230714,fraud,Mortgage fraud involving forged signatures; a notary acted as a witness,Bronx
+20250412,murder,Victim found with multiple gunshot wounds; a passerby reported the body,Manhattan
+20241220,bribery,Bribe paid for a liquor license; witnessed by a hidden camera and an informant,Staten Island
+20231030,assault,Physical fight between fans at a concert; security guards acted as witnesses,Manhattan
+20250105,theft,Tools stolen from a work truck; witness saw a suspect in a blue jacket,Brooklyn
+20240828,arson,Intentional fire set to a vacant home; neighbor caught it on camera,Brooklyn
+20230919,robbery,Mugging in an alleyway; a passerby called 911 immediately,Staten Island
+20250528,fraud,Counterfeit currency passed at a farmers market; cashier provided a description,Queens
+20240118,murder,Fatal shooting in a residential area; several witnesses identified a car,Brooklyn
+20231225,bribery,Attempted bribe of a building inspector; witnessed by a site foreman,Bronx
+20251119,theft,Bicycle stolen from a balcony; witness saw the suspect climbing,Manhattan
+20240405,assault,Threats made with a weapon during a dispute; several people witnessed the brandishing,Staten Island
+20230719,arson,Trash can fire set behind a grocery store; witness reported a suspect fleeing,Manhattan
+20250220,robbery,Store clerk robbed at gunpoint; witness hid in the back room,Manhattan
+20241108,theft,Phone stolen from a table while the owner was distracted; witness saw a man grab it,Brooklyn
+20230505,murder,Investigation into a fatal shooting at a strip mall; witness identified a sedan,Staten Island
+20250819,fraud,Social security fraud using a stolen identity; witness at the social security office reported it,Queens
+20240310,bribery,Bribe paid to avoid a building code violation; witness provided internal emails,Brooklyn
+20230915,assault,Physical altercation between two motorists; a delivery driver witnessed the fight,Bronx
+20251215,theft,Copper wiring stolen from a construction site; witness saw a white truck,Manhattan
+20240705,robbery,Armed robbery of a pharmacy; multiple customers were present and gave statements,Staten Island
+20230227,arson,Suspicious fire in an apartment basement; resident saw a suspect,Brooklyn
+20250625,murder,Homicide investigation at a local motel; desk clerk acted as a witness,Manhattan
+20240122,fraud,Online romance scam leading to financial loss,Brooklyn
+20231008,bribery,Cash exchange observed between a developer and an official; witnessed by a staff member,Staten Island
+20250910,assault,Security guard punched by an unruly patron; multiple witnesses present,Queens
+20240512,theft,Bicycle stolen from a park bench; witness saw the suspect flee toward the gate,Brooklyn
+20230815,robbery,Mugging at a transit stop; witness provided a suspect sketch,Bronx
+20250131,arson,Structure fire at a storage facility; a security guard saw someone running away,Manhattan
+20240925,murder,Body discovered in a wooded area; hiker acted as the primary witness,Staten Island
+20230325,bribery,Bribe offered to a procurement officer; witnessed by an assistant,Brooklyn
+20251105,theft,Purse taken from a grocery store cart; witness saw the suspect flee,Manhattan
+20240228,fraud,Email scam asking for personal information; victim's spouse acted as witness,Brooklyn
+20230730,assault,Bar fight resulting in minor injuries; bartender was a witness,Staten Island
+20251025,robbery,Pedestrian robbed of their cell phone at gunpoint; several witnesses called for help,Queens
+20240419,arson,Small fire started in a public park; witness reported a suspect fleeing,Brooklyn
+20231128,theft,Laptop taken from a university cafe; a student witness provided a description,Bronx
+20250422,murder,Shooting death outside a nightclub; many witnesses provided descriptions,Manhattan
+20241014,bribery,Contractor offered cash for an inspection pass; witnessed by a foreman,Staten Island
+20230514,fraud,Credit card fraud involving unauthorized orders; bank teller saw the suspect at the branch,Manhattan
+20250810,assault,Domestic violence incident reported by a neighbor who heard the shouting,Manhattan
+20241201,theft,Tools stolen from a garage; homeowner saw a shadow,Brooklyn
+20230612,robbery,Convenience store holdup; witness provided a vehicle plate,Staten Island
+20251125,arson,Vehicle set on fire in a public lot; witness saw someone throwing a bottle,Queens
+20240322,murder,Drive-by shooting; several shell casings recovered; witness saw a dark SUV,Brooklyn
+20230910,bribery,Bribe paid to bypass building safety codes; witnessed by a junior inspector,Bronx
+20250210,theft,Shoplifting of electronics; security guard acted as witness,Manhattan
+20240115,fraud,Tax refund fraud using a deceased person's info; witness at the tax office flagged the file,Staten Island
+20231228,assault,Physical fight at a sporting event; captured on camera with dozens of witnesses,Manhattan
+20250505,robbery,Mugging in a public park; a jogger witnessed the attack and helped the victim,Manhattan
+20240822,arson,Intentional fire set to a fence; neighbor saw a suspect with a gas can,Brooklyn
+20230319,theft,Package stolen from a porch; witnessed by a delivery driver on the next street,Staten Island
+20250711,murder,Fatal stabbing in a residential driveway; witness saw a getaway car,Queens
+20240404,bribery,Bribe offered to a city official for a contract bid; witnessed by a secretary,Brooklyn
+20231111,fraud,Counterfeit checks used for a large purchase; witness saw the suspect flee,Bronx
+20251230,assault,Altercation at a transit station; several commuters witnessed the incident,Brooklyn
+20240618,theft,Bicycle stolen from a rack; witness saw the lock being cut,Staten Island
+20231019,robbery,Bank robbery involving a masked suspect; customers were present and gave statements,Manhattan
+20250919,arson,Structure fire at a warehouse; witness reported a white truck leaving the scene,Manhattan
+20241115,murder,Investigation into a fatal shooting; neighbor reported hearing shots,Brooklyn
+20230811,fraud,Identity theft used to open store accounts; clerk provided a description of the applicant,Staten Island
+20250401,bribery,Bribe paid to an official; witness provided a photo of the envelope,Queens
+20240122,theft,Lawn equipment stolen from a shed; neighbor saw a suspect in the yard,Brooklyn
+20230925,assault,Person hit with a glass bottle; a bartender saw the incident,Bronx
+20251015,robbery,Armed robbery of a pharmacy; witness provided a detailed statement,Brooklyn
+20240505,arson,Small fire set in an abandoned lot; witness reported seeing teenagers,Staten Island
+20260112,murder,Homicide investigation following a gang shooting; no witnesses came forward,Manhattan
+20250617,fraud,Check kiting scheme uncovered at a bank; bank teller was a witness,Manhattan
+20240210,bribery,Bribe offered to a DMV clerk; coworker reported the incident,Brooklyn
+20231105,theft,Phone stolen from a restaurant table; waiter witnessed the grab,Staten Island
+20250830,assault,Dispute between coworkers escalated to violence; several witnesses identified the suspect,Queens
+20240612,robbery,Store clerk robbed during a night shift; witness saw a masked figure,Brooklyn
+20230419,arson,House fire determined to be arson; neighbor saw someone running away,Bronx
+20251212,murder,Homicide resulting from a botched drug deal; witness provided a vehicle description,Manhattan
+20240101,fraud,Phishing attack targeting corporate employees; IT acted as witness,Staten Island
+20231015,bribery,Bribe offered to influence a legal case; witnessed by a law clerk,Manhattan
+20250314,theft,Backpack stolen from a bus station; witness saw the suspect,Brooklyn
+20241118,assault,Road rage incident leading to a fight; witness recorded it on a phone,Brooklyn
+20230711,robbery,Convenience store robbery at gunpoint; customer saw the suspect flee,Staten Island
+20250920,arson,Vehicle fire spread to a building; neighbor provided doorbell camera footage,Queens
+20240505,murder,Fatal stabbing in a subway station; several passengers witnessed the struggle,Brooklyn
+20230214,fraud,Investment scam targeting local seniors; one victim provided a statement,Bronx
+20251125,bribery,Attempted bribe of a city official; secretary witnessed the offer,Brooklyn
+20240801,theft,Bicycle taken from a residential porch; witness saw a teenager,Staten Island
+20230630,assault,Physical fight at a bar; dozens of patrons were witnesses,Manhattan
+20251210,robbery,Pedestrian robbed of their watch; no witnesses in the alleyway,Manhattan
+20240112,arson,Trash fire set behind a shopping center; security guard saw a suspect,Brooklyn
+20230925,murder,Shooting at a party; multiple witnesses identified the shooter,Staten Island
+20250418,fraud,Skimming device found on an ATM; witness reported suspicious activity,Queens
+20241030,theft,Tools stolen from a construction site; foreman saw a suspect in a van,Brooklyn
+20231111,bribery,Bribe paid to bypass a building inspection; coworker witnessed the exchange,Bronx
+20250702,assault,Security guard assaulted by a trespasser; several shoppers witnessed it,Brooklyn
+20240322,robbery,Mugging at a gas station; witness provided a partial license plate,Staten Island
+20230528,arson,Intentional fire set to a fence; witness saw a person with a lighter,Brooklyn
+20250228,murder,Body discovered in an abandoned building; homicide suspected; no witnesses,Manhattan
+20240909,fraud,Unemployment fraud involving stolen info; witness provided a statement,Brooklyn
+20230819,theft,Retail theft of electronics; security guard acted as the primary witness,Staten Island
+20251215,bribery,Bribe offered to a code officer; coworker witnessed the meeting,Queens
+20240405,assault,Bar fight leading to hospitalizations; dozens of patrons witnessed it,Brooklyn
+20260119,robbery,Armed robbery of a pedestrian; witness provided a vehicle description,Bronx
+20250617,arson,Small fire started in a vacant storefront; witness reported a suspect,Brooklyn
+20241102,murder,Fatal shooting in a residential driveway; neighbor saw a dark car fleeing,Staten Island
+20231008,fraud,Check fraud at a local boutique; witness identified the suspect,Brooklyn
+20250131,theft,Package stolen from a porch; caught on camera by a neighbor,Brooklyn
+20240512,bribery,Bribe offered to a city official; secretary witnessed the meeting,Brooklyn
+20230714,assault,Physical altercation in a parking lot; several witnesses provided statements,Staten Island
+20250325,robbery,Convenience store robbery; witness hid in the back room,Queens
+20241220,arson,Fire set to a vehicle in a park; witness saw a suspect flee,Brooklyn
+20230227,murder,Investigation into a fatal shooting; neighbor heard the altercation,Bronx
+20250810,fraud,Insurance fraud involving property damage; adjuster acted as a witness,Manhattan
+20240606,theft,Shoplifting of luxury goods; store clerk provided a description,Staten Island
+20230305,bribery,Bribe paid to a building inspector; witnessed by a technician,Manhattan
+20251015,assault,Threats made with a weapon during a dispute; several witnesses called police,Manhattan
+20240128,robbery,Carjacking at gunpoint; witness provided a description of the car,Brooklyn
+20231115,arson,House fire determined to be arson; neighbor saw someone running,Staten Island
+20250522,theft,Laptop stolen from a library; librarian witnessed the suspect,Queens
+20240701,murder,Fatal stabbing in a public park; three witnesses provided statements,Brooklyn
+20230919,fraud,Investment scam targeting the elderly; witness provided a statement,Bronx
+20251119,bribery,Bribe paid to influence a city contract; witnessed by an aide,Manhattan
+20240215,theft,Power tools stolen from a work truck; witness saw a red truck nearby,Staten Island
+20230628,assault,Domestic violence incident reported by a neighbor,Brooklyn
+20250814,robbery,Store clerk robbed during a night shift; witness saw the getaway car,Brooklyn
+20241022,arson,Garbage fire set behind a building; witness saw a suspect fleeing,Brooklyn
+20230501,murder,Homicide investigation following a gang-related shooting; witness identified the vehicle,Staten Island
+20250412,fraud,Email phishing scam; IT department acted as a witness,Queens
+20241215,theft,Bicycle stolen from a rack; witness saw the suspect flee on foot,Brooklyn
+20230811,bribery,Bribe offered to influence a legal case; witnessed by a court employee,Bronx
+20250205,assault,Fight in a parking garage; security cameras and one witness recorded it,Brooklyn
+20240419,robbery,Mugging in an alleyway; witness saw a suspect in a hoodie,Staten Island
+20260122,arson,Structure fire at a storage facility; arson suspected; no witnesses,Manhattan
+20251111,theft,Purse stolen from the back of a chair; waiter provided a description,Manhattan
+20240705,murder,Homicide resulting from a dispute; neighbor identified the suspect,Brooklyn
+20231030,fraud,Online romance scam leading to financial loss,Staten Island
+20250105,bribery,Kickback given to a purchasing agent; witnessed by an accountant,Queens
+20240914,theft,Package theft caught on a doorbell camera; neighbor was a witness,Brooklyn
+20230412,assault,Physical altercation between two drivers; several commuters witnessed it,Bronx
+20250528,robbery,Bank heist involving a masked individual; several customers provided statements,Manhattan
+20240118,arson,Fire set to a vacant home; witness saw someone with a gas can,Staten Island
+20231220,murder,Fatal shooting in a driveway; witness identified a silver sedan,Manhattan
+20250711,fraud,Skimming device found at a gas pump; witness reported tampering,Manhattan
+20240329,theft,Jewelry stolen from a residence; neighbor heard glass breaking,Brooklyn
+20230518,bribery,Bribe offered to a licensing official; witnessed by a colleague,Staten Island
+20250930,assault,Customer assaulted a fast-food worker; multiple patrons witnessed it,Queens
+20241111,robbery,Pharmacy robbed of prescription meds; pharmacist provided a statement,Brooklyn
+20230719,arson,Intentional fire in a public park; witness reported a suspect,Bronx
+20250220,theft,Backpack stolen from a bus station; witness saw the thief flee,Manhattan
+20240822,murder,Shooting death outside a store; witness provided a height description,Staten Island
+20230302,fraud,Mortgage fraud involving forged signatures; witness provided documents,Manhattan
+20251030,bribery,Cash exchange observed between a developer and an official; witness took a photo,Manhattan
+20241222,theft,Tools stolen from a garage; witness saw a white van leaving,Brooklyn
+20230910,assault,Threats made with a weapon during a dispute; neighbor reported it,Staten Island
+20250425,robbery,Convenience store holdup; clerk provided a detailed statement,Queens
+20241115,arson,Vehicle fire spread to a building; witness saw a suspect fleeing,Brooklyn
+20230528,murder,Body found in a wooded area; homicide suspected,Bronx
+20250819,fraud,Identity theft involving a new credit line; bank teller acted as witness,Manhattan
+20240101,theft,Laptop taken from a university cafe; several students witnessed the grab,Staten Island
+20231105,bribery,Bribe offered to a DMV clerk; coworker reported the incident,Brooklyn
+20251230,assault,Altercation at a transit stop; witness provided a suspect sketch,Manhattan
+20240618,robbery,Mugging in a public park; witness called 911 immediately,Brooklyn
+20231025,arson,Intentional fire in a dumpster; witness saw a suspect in the alley,Staten Island
+20250120,murder,Homicide resulting from a botched drug deal; witness fleeing the scene,Queens
+20231215,bribery,Bribe offered to a city official; witnessed by a staffer,Brooklyn
+20240510,theft,Shoplifting of high-end apparel; store security acted as a witness,Staten Island
+20251102,fraud,Phishing attack targeting local small businesses,Manhattan
+20230819,robbery,Armed robbery at a convenience store; a customer provided a suspect description,Staten Island
+20231225,arson,Intentional fire set in an abandoned warehouse,Staten Island
+20260110,bribery,Attempted payoff to a city official during a permit review; witnessed by an aide,Manhattan
+20240312,assault,Physical altercation outside a nightclub; several bystanders were witnesses,Queens
+20250630,murder,Homicide involving a firearm in a residential area; neighbor provided a statement,Brooklyn
+20230908,theft,Bicycle stolen from a park; witness saw a suspect fleeing on foot,Brooklyn
+20241021,fraud,Email phishing scam targeting elderly residents; bank teller acted as a witness,Brooklyn
+20250214,assault,Dispute between neighbors resulting in minor injuries,Bronx
+20230514,theft,Shoplifting of electronics from a retail store; security guard was a witness,Bronx
+20251102,fraud,Credit card skimming at a local gas station; witness reported suspicious activity,Manhattan
+20240819,robbery,Armed robbery at a convenience store; one witness provided a statement,Staten Island
+20231225,arson,Intentional fire set in an abandoned warehouse; witness saw a person fleeing,Staten Island
+20260110,bribery,Attempted payoff to a city official during a permit review,Manhattan
+20240312,assault,Physical altercation outside a nightclub; multiple witnesses identified the suspect,Queens
+20250630,murder,Homicide involving a firearm in a residential area,Manhattan
+20230908,theft,Bicycle stolen from a park; witness saw a suspect fleeing on foot,Brooklyn
+20241021,fraud,Email phishing scam targeting elderly residents; witness provided evidence,Brooklyn
+20250214,assault,Dispute between neighbors resulting in minor injuries; neighbor called 911,Bronx
+20240514,bribery,Illegal payment offered to a building inspector; witnessed by a contractor,Brooklyn
+20231102,theft,Unattended laptop taken from a coffee shop; two witnesses were present,Bronx
+20250819,murder,Fatal shooting following a targeted dispute in an alleyway,Manhattan
+20230225,arson,Vehicle set on fire in a parking garage; witness reported a suspect with a gas can,Staten Island
+20260110,fraud,Identity theft involving unauthorized bank transfers; victim acted as witness,Staten Island
+20240312,assault,Bar fight resulting in minor injuries; several witnesses identified the suspect,Queens
+20250630,robbery,Street mugging at knifepoint; a passerby called emergency services,Manhattan
+20230908,theft,Bicycle stolen from a residential porch; neighbor saw the theft,Brooklyn
+20241021,fraud,Phone scam claiming to be from the IRS; witness provided recording,Brooklyn
+20250214,assault,Domestic disturbance at a private residence; neighbor provided a statement,Bronx
+20231201,arson,Small fire started intentionally near a park; witness saw a hooded figure,Manhattan
+20240722,bribery,Kickback scheme uncovered during a corporate audit; accountant acted as witness,Staten Island
+20251111,robbery,Bank robbery involving a masked individual; bank staff provided descriptions,Manhattan
+20230405,murder,Case involving a victim found in a hotel room; witness saw a person fleeing,Staten Island
+20240918,theft,Shoplifting incident at a department store; store security witnessed the act,Queens
+20250105,fraud,Welfare fraud involving falsified documents,Manhattan
+20230615,assault,Pushing and shoving match at a sporting event; security and fans intervened,Brooklyn
+20241225,arson,Trash can fire set behind a shopping mall; witness saw a person with a lighter,Brooklyn
+20250319,robbery,Home invasion while residents were present; one witness hid and called 911,Bronx
+20230830,bribery,Attempted bribe of a traffic officer during a routine stop; witnessed by a passenger,Brooklyn
+20240110,theft,Purse taken from a grocery cart; another shopper witnessed the grab,Staten Island
+20251205,assault,Altercation at a transit station; several commuters were witnesses,Manhattan
+20230715,murder,Fatal shooting in a park; multiple witnesses provided descriptions,Staten Island
+20240930,arson,Structure fire at an abandoned building; witness saw a hooded figure,Manhattan
+20250220,fraud,Investment scam targeting seniors; whistleblower acted as witness,Bronx
+20230510,robbery,Armed robbery of a pedestrian; witness provided a vehicle plate,Queens
+20241112,theft,Bicycle stolen from a garage; neighbor saw the suspect,Brooklyn
+20260115,bribery,Cash bribe offered to a zoning official; witnessed by a secretary,Manhattan
+20250805,assault,Road rage incident leading to a fight; several drivers witnessed it,Brooklyn
+20230422,murder,Shooting death outside a bar; patrons gave statements to police,Staten Island
+20241010,fraud,Identity theft used to open accounts; bank teller acted as a witness,Manhattan
+20250125,arson,Intentional fire set to a park bench,Bronx
+20230618,theft,Package stolen from a porch; caught on camera with a witness reporting,Staten Island
+20240305,robbery,Mugging in a public park; a jogger was the primary witness,Manhattan
+20251115,murder,Homicide investigation at a local motel; desk clerk provided information,Queens
+20230825,bribery,Bribe paid to bypass an inspection; witnessed by a coworker,Brooklyn
+20241212,assault,Security guard assaulted by a trespasser; multiple staff witnesses,Brooklyn
+20250530,theft,Laptop taken from a library; librarian witnessed the theft,Brooklyn
+20230214,fraud,Credit card skimming at a market,Staten Island
+20240720,arson,Vehicle set on fire in a driveway; neighbor provided doorbell footage,Manhattan
+20250910,robbery,Convenience store holdup; witness provided a detailed statement,Bronx
+20231128,murder,Fatal stabbing during a dispute; several witnesses fled the scene,Staten Island
+20240615,bribery,Bribe offered to a city official; witnessed by an aide,Manhattan
+20250110,theft,Shoplifting of electronics; security guard acted as witness,Queens
+20231019,assault,Physical fight at a sporting event; fans and security witnessed it,Brooklyn
+20240405,arson,Small fire set in a vacant lot; witness saw a suspect flee,Brooklyn
+20250812,fraud,Phishing scam targeting employees,Brooklyn
+20231230,robbery,Armed robbery of a pedestrian; witness called 911 immediately,Staten Island
+20240515,murder,Homicide resulting from a dispute; neighbor identified the suspect,Brooklyn
+20251025,bribery,Bribe paid to influence a contract,Bronx
+20230720,theft,Purse snatched from a shopping cart; witness provided a description,Staten Island
+20241111,assault,Physical altercation between neighbors; witnessed by several residents,Manhattan
+20250915,arson,Intentional fire set to a fence; neighbor saw the suspect,Queens
+20260122,fraud,Online romance scam; victim's family acted as witness,Manhattan
+20240828,robbery,Mugging at gunpoint; witness provided a suspect sketch,Brooklyn
+20251230,murder,Shooting in a residential area; witness identified a silver sedan,Brooklyn
+20230419,bribery,Bribe offered to a licensing clerk; witnessed by a colleague,Staten Island
+20250617,theft,Tools stolen from a work truck,Manhattan
+20241010,assault,Customer assaulted a staff member; multiple patrons witnessed it,Bronx
+20230915,arson,House fire determined to be arson; neighbor saw someone running away,Staten Island
+20250422,fraud,Identity theft involving stolen mail; mail carrier acted as witness,Manhattan
+20240122,robbery,Armed robbery of a pharmacy; pharmacist provided a statement,Queens
+20231111,murder,Homicide investigation following a drive-by; witness identified the car,Brooklyn
+20250715,bribery,Bribe paid to an official for a city contract; witnessed by an aide,Brooklyn
+20241215,theft,Laptop stolen from a cafe; witness provided a suspect description,Brooklyn
+20230830,assault,Physical fight at a bar; bartender was a witness,Staten Island
+20251111,arson,Small fire set in an abandoned lot,Brooklyn
+20240505,fraud,Insurance fraud involving property damage; witness provided photos,Bronx
+20230314,robbery,Mugging in a public park; witness provided a statement,Staten Island
+20250920,murder,Fatal shooting in a driveway; neighbor reported hearing shots,Manhattan
+20240101,bribery,Bribe offered to influence a city contract; witness recorded the audio,Queens
+20231015,theft,Bicycle stolen from a balcony; neighbor witnessed the theft,Brooklyn
+20250314,fraud,Investment fraud targeting seniors; whistleblower provided internal docs,Brooklyn
+20241118,assault,Road rage incident leading to a fight; witness recorded it on a phone,Brooklyn
+20230711,robbery,Convenience store robbery at gunpoint; witness saw the getaway car,Staten Island
+20251212,arson,Car fire set in a public lot; witness saw a suspect flee,Manhattan
+20240112,murder,Homicide resulting from a dispute; neighbor identified the suspect,Bronx
+20230925,bribery,Bribe paid to bypass building codes; witnessed by a junior inspector,Staten Island
+20250418,theft,Shoplifting of luxury goods; store security acted as a witness,Manhattan
+20241030,fraud,Phishing attack targeting corporate employees,Queens
+20231111,assault,Physical altercation between coworkers; witnessed by other staff members,Manhattan
+20250702,arson,Small fire set behind a building; witness reported a hooded figure,Brooklyn
+20240322,robbery,Bank robbery involving a masked individual; customers were present,Brooklyn
+20230528,murder,Body discovered in a dumpster; homicide suspected,Staten Island
+20250228,bribery,Attempted bribe of a city official; secretary witnessed the meeting,Manhattan
+20240909,theft,Package theft caught on doorbell camera,Bronx
+20230819,fraud,Skimming device found at a gas pump; witness saw someone tampering,Staten Island
+20251215,assault,Customer assaulted a staff member; several patrons witnessed the hit,Brooklyn
+20240405,robbery,Armed robbery of a pedestrian; witness provided a description,Queens
+20260119,arson,House fire set with gasoline; neighbor saw a suspect flee,Manhattan
+20250617,murder,Fatal stabbing in a park; witness identified a suspect,Brooklyn
+20241102,bribery,Bribe offered to a building inspector,Brooklyn
+20231008,theft,Bicycle stolen from a rack; witness saw the suspect flee on foot,Staten Island
+20250131,fraud,Counterfeit bills passed at a market; cashier acted as a witness,Manhattan
+20240512,assault,Physical fight in a parking lot; several witnesses provided statements,Bronx
+20230714,arson,Intentional fire set to a fence,Staten Island
+20250325,robbery,Convenience store holdup; clerk provided a detailed description,Manhattan
+20241220,murder,Homicide investigation following a shooting; neighbor heard shots,Queens
+20230227,bribery,Bribe paid to bypass an inspection; witnessed by a colleague,Manhattan
+20250810,theft,Tools stolen from a work truck,Brooklyn
+20240606,fraud,Investment fraud targeting the elderly; witness provided internal documents,Brooklyn
+20230305,assault,Security guard assaulted by a trespasser; witnessed by several patrons,Staten Island
+20251015,robbery,Mugging in an alleyway; witness provided a vehicle plate,Manhattan
+20240128,arson,Vehicle set on fire; neighbor provided doorbell footage,Bronx
+20231115,murder,Fatal shooting in a park; three witnesses identified,Staten Island
+20250522,bribery,Attempted bribe of a city official; witnessed by a staffer,Brooklyn
+20240701,theft,Laptop stolen from a library; librarian witnessed the theft,Queens
+20230919,fraud,Online romance scam leading to financial loss,Manhattan
+20251119,assault,Physical altercation between two drivers; several commuters witnessed it,Brooklyn
+20240215,robbery,Bank heist involving a masked suspect,Brooklyn
+20230628,arson,Small fire set in a vacant lot; witness reported a suspect fleeing,Staten Island
+20250814,murder,Investigation into a fatal shooting; neighbor reported hearing shots,Manhattan
+20241022,bribery,Bribe offered to bypass a health inspection,Bronx
+20230501,theft,Purse stolen from the back of a chair; witness provided a description,Staten Island
+20250412,fraud,Phishing scam targeting employees; IT department acted as witness,Manhattan
+20241215,assault,Threats made with a weapon during a dispute,Queens
+20230811,arson,Intentional fire in a dumpster; witness saw a suspect in the alley,Manhattan
+20250205,robbery,Mugging in a public park; witness called 911 immediately,Brooklyn
+20240419,murder,Fatal stabbing in a park; no witnesses reported,Brooklyn
+20260122,bribery,Bribe offered to bypass building codes; witnessed by a contractor,Staten Island
+20251111,theft,Package theft from a porch,Manhattan
+20240705,fraud,Insurance fraud involving property damage; witness provided photos,Bronx
+20231030,assault,Bar fight leading to hospitalizations; security was a witness,Staten Island
+20250105,arson,Vehicle set on fire; neighbor saw a suspect flee,Manhattan
+20240914,murder,Shooting death outside a bar; several patrons witnessed the hit,Queens
+20230412,bribery,Bribe paid to an official for a city contract,Brooklyn
+20250528,theft,Lawn equipment stolen from a shed; neighbor provided a description,Brooklyn
+20240118,fraud,Skimming device found at a gas pump; witness reported tampering,Brooklyn
+20231220,assault,Physical altercation in a parking garage; witness recorded the fight,Staten Island
+20250711,robbery,Armed robbery of a pharmacy; pharmacist provided a statement,Brooklyn
+20240404,arson,Fire set to an abandoned building,Bronx
+20231111,murder,Homicide resulting from a dispute; neighbor identified the suspect,Staten Island
+20251230,bribery,Bribe paid to influence a legal case; witnessed by an aide,Manhattan
+20240618,theft,Bicycle stolen from a balcony; witness saw the suspect climbing,Queens
+20231019,fraud,Identity theft used to open accounts,Manhattan
+20250919,assault,Customer assaulted a staff member; multiple witnesses present,Brooklyn
+20241115,arson,Small fire set in a vacant lot; witness saw a suspect fleeing,Brooklyn
+20230811,robbery,Mugging at gunpoint; witness provided a vehicle plate,Staten Island
+20250401,murder,Fatal shooting in a park; witness identified a silver sedan,Manhattan
+20240122,bribery,Attempted bribe of a city official; witnessed by a clerk,Bronx
+20230925,fraud,Skimming device found at a local market; witness reported suspicious activity,Staten Island
+20251015,assault,Physical fight at a sporting event; fans and security were witnesses,Manhattan
+20240505,arson,Small fire set behind a building,Queens
+20260112,theft,Laptop taken from a university cafe; several students witnessed the theft,Brooklyn
+20250617,robbery,Convenience store holdup; clerk provided a detailed statement,Brooklyn
+20240210,murder,Homicide investigation following a drive-by,Brooklyn
+20231105,bribery,Bribe offered to influence a legal case,Staten Island
+20250830,theft,Purse stolen from a shopping cart; witness provided a description,Manhattan
+20240612,fraud,Check kiting scheme uncovered at a bank; bank teller was a witness,Bronx
+20230419,assault,Physical altercation between drivers,Staten Island
+20251212,arson,Trash fire set behind a shopping center; witness saw a hooded figure,Manhattan
+20240101,murder,Fatal stabbing in a residential driveway; neighbor reported the event,Queens
+20231015,bribery,Kickback given to a purchasing agent; witnessed by an accountant,Brooklyn
+20250314,theft,Tools stolen from a garage; witness saw a white van leaving,Brooklyn
+20241118,fraud,Phishing scam targeting employees; IT department acted as witness,Brooklyn
+20230711,assault,Physical fight at a bar; bartender provided a statement,Staten Island
+20250920,robbery,Carjacking at a red light; witness provided a vehicle description,Manhattan
+20240505,arson,Intentional fire in a dumpster,Bronx
+20230214,murder,Investigation into a fatal shooting; neighbor heard shots and called 911,Staten Island
+20251125,bribery,Bribe offered to bypass an inspection; witnessed by a colleague,Manhattan
+20240801,theft,Bicycle taken from a residential porch; neighbor saw the theft,Queens
+20230630,fraud,Mortgage fraud involving forged signatures,Manhattan
+20251210,assault,Dispute at a bar escalated to violence; several patrons were witnesses,Brooklyn
+20240112,robbery,Armed robbery of a pedestrian; witness provided a suspect sketch,Brooklyn
+20230925,arson,Small fire set in a park; witness saw a suspect fleeing,Staten Island
+20250418,murder,Shooting death outside a store; witness provided a height description,Manhattan
+20241030,bribery,Cash exchange observed between a developer and an official,Bronx
+20231111,theft,Laptop stolen from a cafe; several students witnessed the grab,Staten Island
+20250702,fraud,Skimming device found at a gas station; witness reported tampering,Manhattan
+20240322,assault,Security guard assaulted by a trespasser; witness recorded the hit,Queens
+20230528,arson,Vehicle set on fire; neighbor saw a person fleeing,Manhattan
+20250228,robbery,Mugging in a public park; witness called 911 immediately,Brooklyn
+20240909,murder,Body discovered in a wooded area; hiker acted as a witness,Brooklyn
+20230819,bribery,Bribe paid to bypass building codes; witnessed by a junior inspector,Staten Island
+20251215,theft,Tools stolen from a construction site; witness saw a suspect in a white truck,Manhattan
+20240405,fraud,Investment fraud targeting seniors; whistleblower acted as witness,Bronx
+20260119,assault,Physical altercation in a parking garage; witness recorded the fight,Staten Island
+20250617,arson,Intentional fire set to a fence; neighbor saw a suspect with a lighter,Brooklyn
+20241102,robbery,Armed robbery of a pharmacy; pharmacist provided a statement,Queens
+20231008,murder,Investigation into a drive-by shooting; several witnesses identified the car,Brooklyn
+20250131,bribery,Attempted bribe of a city official; witnessed by a clerk,Brooklyn
+20240512,theft,Bicycle stolen from a rack; witness saw the suspect flee on foot,Brooklyn
+20230714,fraud,Counterfeit bills passed at a market,Staten Island
+20250325,assault,Customer assaulted a staff member; multiple patrons witnessed it,Brooklyn
+20241220,arson,Small fire set in a vacant lot; witness reported a suspect fleeing,Bronx
+20230227,robbery,Store clerk robbed during a night shift; witness provided a vehicle description,Staten Island
+20250810,murder,Fatal shooting in a driveway; witness identified a silver sedan,Manhattan
+20240606,bribery,Bribe paid to influence a legal case; witnessed by an aide,Queens
+20230305,theft,Package theft caught on camera; neighbor provided the footage,Manhattan
+20251015,fraud,Identity theft involving stolen mail; mail carrier acted as witness,Brooklyn
+20240128,assault,Road rage incident leading to a fight; witness recorded it on a phone,Brooklyn
+20231115,arson,House fire determined to be arson; neighbor saw someone running away,Staten Island
+20250522,robbery,Mugging at gunpoint; witness provided a suspect sketch,Manhattan
+20240701,murder,Homicide resulting from a dispute; neighbor identified the suspect,Bronx
+20230919,bribery,Bribe offered to influence a city contract; witnessed by an aide,Staten Island
+20251119,theft,Laptop taken from a library table; student saw the suspect flee,Manhattan
+20240215,fraud,Online romance scam leading to financial loss; victim's family acted as witness,Queens
+20230628,assault,Physical fight in a parking lot; witness recorded the incident,Brooklyn
+20250814,arson,Structure fire at a warehouse; witness saw a hooded figure fleeing,Brooklyn
+20241022,robbery,Convenience store robbery; clerk provided a detailed description,Brooklyn
+20230501,murder,Shooting at a party; multiple witnesses identified the shooter,Staten Island
+20250412,bribery,Bribe offered to bypass building codes,Manhattan
+20241215,theft,Purse taken from a shopping cart; witness provided a description,Bronx
+20230811,fraud,Investment fraud targeting the elderly; witness provided internal documents,Staten Island
+20250205,assault,Security guard assaulted by a trespasser,Brooklyn
+20240419,arson,Fire set to an abandoned building; witness reported seeing teenagers,Queens
+20230122,robbery,Armed robbery of a pharmacy; pharmacist was the sole witness,Manhattan
+20251111,murder,Fatal stabbing in a park; several witnesses gave statements,Brooklyn
+20240705,bribery,Attempted bribe of a city official; witnessed by a staffer,Brooklyn
+20231030,theft,Lawn equipment stolen from a shed,Staten Island
+20250105,fraud,Identity theft used to open accounts; bank manager acted as witness,Manhattan
+20240914,assault,Physical fight at a sporting event; dozens of fans witnessed the hit,Bronx
+20230412,arson,Small fire set in a vacant lot,Staten Island
+20250528,robbery,Mugging in a public park; witness provided a vehicle description,Manhattan
+20240118,murder,Fatal shooting in a driveway; witness identified the getaway car,Queens
+20231220,bribery,Bribe paid to influence a legal case; witnessed by an aide,Manhattan
+20250711,theft,Bicycle stolen from a balcony; witness saw the suspect climb,Brooklyn
+20240404,fraud,Insurance fraud involving property damage; adjuster acted as witness,Brooklyn
+20231111,assault,Customer assaulted a staff member; multiple witnesses present,Staten Island
+20251230,arson,Vehicle set on fire; neighbor provided doorbell footage,Manhattan
+20240618,robbery,Bank robbery involving a masked individual,Bronx
+20231019,murder,Fatal shooting in a residential area; witness identified the suspect,Staten Island
+20250919,bribery,Bribe offered to bypass a health inspection; witnessed by a clerk,Manhattan
+20241115,theft,Purse snatched from a shopping cart; witness saw the suspect flee,Queens
+20230811,fraud,Skimming device found at a gas pump; witness reported tampering,Manhattan
+20250401,assault,Physical altercation between two drivers; witness recorded the fight,Brooklyn
+20240122,arson,Intentional fire in a dumpster,Brooklyn
+20230925,robbery,Armed robbery of a pedestrian; witness provided a description,Staten Island
+20251015,murder,Investigation into a shooting death; neighbor heard shots and called 911,Manhattan
+20240505,bribery,Bribe paid to an official for a city contract,Bronx
+20230112,theft,Laptop taken from a university cafe; student witness provided a sketch,Staten Island
+20250617,fraud,Check kiting scheme uncovered at a bank; bank teller was a witness,Manhattan
+20240210,assault,Bar fight resulting in minor injuries; bartender was a witness,Queens
+20231105,arson,Fire set to a vacant storefront; witness saw a suspect fleeing,Manhattan
+20250830,robbery,Mugging at gunpoint; witness provided a suspect description,Brooklyn

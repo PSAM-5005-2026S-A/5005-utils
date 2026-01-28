@@ -23,6 +23,7 @@ jobs:
           mv data/image/forest-sat/01crop/*jpg data/image/forest-sat/
           rm -rf data/image/forest-sat/00orig data/image/forest-sat/01crop
           tar -czf forest-sat.tar.gz data/image/forest-sat
+          tar -czf mystery.tar.gz data/csv/mystery
 
       - name: Tag Release
         id: tag
