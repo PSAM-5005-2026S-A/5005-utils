@@ -1,6 +1,6 @@
 import numpy as np
+import soundfile as sf
 import wave
-
 
 ## Audio I/O
 
@@ -22,15 +22,8 @@ def wav_to_list(wav_filename):
   s, _ = get_samples_and_rate(wav_filename)
   return s
 
-def list_to_wav(wav_array, wav_filename):
-  lim = 2**15 - 1
-  wav_array = [max(min(i, lim), -lim) for i in wav_array]
-  xb = np.array(wav_array, dtype=np.int16).tobytes()
-  with wave.open(wav_filename, "w") as wav_out:
-    wav_out.setnchannels(1)
-    wav_out.setsampwidth(2)
-    wav_out.setframerate(44100)
-    wav_out.writeframes(xb)
+def list_to_wav(samples, sr, filename):
+  sf.write(filename, samples, sr, subtype="PCM_16")
 
 
 # Audio Analysis Functions
@@ -41,7 +34,7 @@ def logFilter(x, factor=3):
   else:
     return np.exp(factor * np.log(x)) // np.power(10, factor*5)
 
-def fft(samples, rate=44100, filter_factor=3):
+def fft(samples, rate=44100, filter_factor=0):
   _fft = logFilter(np.abs(np.fft.fft(samples * np.hanning(len(samples))))[ :len(samples) // 2], filter_factor).tolist()
   num_samples = len(_fft)
   hps = (rate//2) / num_samples
@@ -67,15 +60,15 @@ def ifft(fs):
 
 # Generate Audio
 
-def tone(freq, length_seconds, amp=2**10, sr=44100, fade=False):
+def tone(freq, length_seconds, amp=1, sr=44100, fade=False):
   length_samples = length_seconds * sr
   t = range(0, length_samples)
   ham = np.ones(length_samples)
   if fade:
     ham = np.hamming(length_samples)
   two_pi = 2.0 * np.pi
-  return np.array([amp * np.sin(two_pi * freq * x / sr) for x in t] * ham).astype(np.int16).tolist(), sr
+  return np.array([amp * np.sin(two_pi * freq * x / sr) for x in t] * ham).astype(np.float16).tolist(), sr
 
-def multi_tone(freqs, length_seconds, amp=2**10, sr=44100, fade=False):
+def multi_tone(freqs, length_seconds, amp=1, sr=44100, fade=False):
   tones = np.array([tone(f, length_seconds, amp, sr, fade)[0] for f in freqs])
   return tones.mean(axis=0), sr
