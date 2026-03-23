@@ -1,0 +1,25 @@
+key,mood,key_num,mode
+C,"innocence and happiness",0,1
+Cm,"innocence and sadness",0,0
+C#m,"sorrow and grief",1,0
+Db,"depressive",1,1
+D,"triumphant and victorious",2,1
+Dm,"melancholic",2,0
+D#m,"anxious and darkness",3,0
+Eb,"openness and intimacy",3,1
+E,"dissatisfaction",4,1
+Em,"restless love",4,0
+F,"optimism",5,1
+Fm,"death and loss",5,0
+F#,"conquest and triumph",6,1
+F#m,"resentment and discontentment",6,0
+G,"calm satisfaction and tenderness",7,1
+Gm,"uneasiness and failure",7,0
+Ab,"death and eternity",8,1
+Abm,"lamentation and struggle",8,0
+A,"joy and satisfaction",9,1
+Am,"sad with tenderness",9,0
+Bb,"joyful and cheerful",10,1
+Bbm,"darkness and destiny",10,0
+B,"strength and passion",11,1
+Bm,"solitude and melancholy",11,0
