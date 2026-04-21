@@ -5,6 +5,7 @@ on:
     branches: [ "main" ]
     paths:
       - "datasets/image/**/*"
+      - "datasets/csv/mystery/*"
       - ".github/workflows/publish-datasets.yml"
 
 jobs:
@@ -23,6 +24,7 @@ jobs:
           mv data/image/forest-sat/01crop/*jpg data/image/forest-sat/
           rm -rf data/image/forest-sat/00orig data/image/forest-sat/01crop
           tar -czf forest-sat.tar.gz data/image/forest-sat
+          tar -czf flowers.tar.gz data/image/flowers
           tar -czf mystery.tar.gz data/csv/mystery
 
       - name: Tag Release
